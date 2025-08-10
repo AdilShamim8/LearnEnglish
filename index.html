@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English-Bengali Learning Platform</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <!-- Navigation -->
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <i class="fas fa-graduation-cap"></i>
+                    <span>English-Bengali Learning</span>
+                </div>
+                <div class="nav-menu">
+                    <button class="nav-btn active" data-section="flashcards">
+                        <i class="fas fa-layer-group"></i>
+                        Flashcards
+                    </button>
+                    <button class="nav-btn" data-section="quiz">
+                        <i class="fas fa-question-circle"></i>
+                        Quiz
+                    </button>
+                    <button class="nav-btn" data-section="progress">
+                        <i class="fas fa-chart-line"></i>
+                        Progress
+                    </button>
+                    <button class="nav-btn" data-section="settings">
+                        <i class="fas fa-cog"></i>
+                        Settings
+                    </button>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Welcome Screen -->
+            <div id="welcome-screen" class="welcome-screen">
+                <div class="welcome-content">
+                    <h1>Welcome to English-Bengali Learning</h1>
+                    <p>Master 3000 most common English words with Bengali translations</p>
+                    <div class="welcome-stats">
+                        <div class="stat-card">
+                            <i class="fas fa-book"></i>
+                            <h3>3000</h3>
+                            <p>Words to Learn</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-clock"></i>
+                            <h3>Daily</h3>
+                            <p>Practice Sessions</p>
+                        </div>
+                        <div class="stat-card">
+                            <i class="fas fa-trophy"></i>
+                            <h3>Progress</h3>
+                            <p>Track Your Success</p>
+                        </div>
+                    </div>
+                    <button id="start-learning" class="start-btn">
+                        <i class="fas fa-play"></i>
+                        Start Learning
+                    </button>
+                </div>
+            </div>
+
+            <!-- Flashcards Section -->
+            <div id="flashcards-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Flashcards</h2>
+                    <div class="controls">
+                        <button id="prev-card" class="control-btn">
+                            <i class="fas fa-chevron-left"></i>
+                        </button>
+                        <span id="card-counter">1 / 50</span>
+                        <button id="next-card" class="control-btn">
+                            <i class="fas fa-chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="flashcard-container">
+                    <div id="flashcard" class="flashcard">
+                        <div class="card-front">
+                            <h3 id="english-word">Loading...</h3>
+                            <p id="word-type">noun</p>
+                        </div>
+                        <div class="card-back hidden">
+                            <h3 id="bengali-translation">বাংলা অনুবাদ</h3>
+                            <p id="word-meaning">Word meaning and explanation</p>
+                            <div class="example-sentence">
+                                <h4>Example:</h4>
+                                <p id="example-text">Example sentence here</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flashcard-actions">
+                    <button id="flip-card" class="action-btn flip-btn">
+                        <i class="fas fa-sync-alt"></i>
+                        Flip Card
+                    </button>
+                    <button id="mark-known" class="action-btn known-btn">
+                        <i class="fas fa-check"></i>
+                        I Know This
+                    </button>
+                    <button id="mark-unknown" class="action-btn unknown-btn">
+                        <i class="fas fa-times"></i>
+                        Need Practice
+                    </button>
+                </div>
+
+                <div class="progress-bar">
+                    <div id="progress-fill" class="progress-fill"></div>
+                </div>
+            </div>
+
+            <!-- Quiz Section -->
+            <div id="quiz-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Quiz Mode</h2>
+                    <div class="quiz-stats">
+                        <span id="quiz-score">Score: 0</span>
+                        <span id="quiz-progress">Question: 1/10</span>
+                    </div>
+                </div>
+
+                <div class="quiz-container">
+                    <div id="quiz-question" class="quiz-question">
+                        <h3 id="question-text">What is the Bengali translation for this word?</h3>
+                        <div id="question-word" class="question-word">Loading...</div>
+                    </div>
+
+                    <div id="quiz-options" class="quiz-options">
+                        <button class="option-btn" data-option="0">Option 1</button>
+                        <button class="option-btn" data-option="1">Option 2</button>
+                        <button class="option-btn" data-option="2">Option 3</button>
+                        <button class="option-btn" data-option="3">Option 4</button>
+                    </div>
+
+                    <div id="quiz-feedback" class="quiz-feedback hidden">
+                        <div class="feedback-content">
+                            <i id="feedback-icon" class="fas fa-check"></i>
+                            <h3 id="feedback-text">Correct!</h3>
+                            <p id="feedback-explanation">Explanation here</p>
+                        </div>
+                        <button id="next-question" class="next-btn">Next Question</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Progress Section -->
+            <div id="progress-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Your Progress</h2>
+                </div>
+                
+                <div class="progress-grid">
+                    <div class="progress-card">
+                        <h3>Overall Progress</h3>
+                        <div class="progress-circle">
+                            <svg width="120" height="120">
+                                <circle cx="60" cy="60" r="50" fill="none" stroke="#e0e0e0" stroke-width="8"/>
+                                <circle id="overall-progress" cx="60" cy="60" r="50" fill="none" stroke="#4CAF50" stroke-width="8" stroke-dasharray="314" stroke-dashoffset="314"/>
+                            </svg>
+                            <div class="progress-text">
+                                <span id="overall-percentage">0%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="progress-card">
+                        <h3>Words Learned</h3>
+                        <div class="stat-display">
+                            <span id="words-learned">0</span> / 3000
+                        </div>
+                    </div>
+
+                    <div class="progress-card">
+                        <h3>Quiz Score</h3>
+                        <div class="stat-display">
+                            <span id="average-score">0%</span>
+                        </div>
+                    </div>
+
+                    <div class="progress-card">
+                        <h3>Study Streak</h3>
+                        <div class="stat-display">
+                            <span id="study-streak">0</span> days
+                        </div>
+                    </div>
+                </div>
+
+                <div class="recent-activity">
+                    <h3>Recent Activity</h3>
+                    <div id="activity-list" class="activity-list">
+                        <!-- Activity items will be added here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Settings Section -->
+            <div id="settings-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Settings</h2>
+                </div>
+                
+                <div class="settings-grid">
+                    <div class="setting-card">
+                        <h3>Learning Preferences</h3>
+                        <div class="setting-item">
+                            <label>Words per session:</label>
+                            <select id="words-per-session">
+                                <option value="5">5 words</option>
+                                <option value="10">10 words</option>
+                                <option value="20" selected>20 words</option>
+                                <option value="30">30 words</option>
+                                <option value="50">50 words</option>
+                                <option value="100">100 words</option>
+                                <option value="200">200 words</option>
+                                <option value="500">500 words</option>
+                                <option value="1000">1000 words</option>
+                                <option value="3000">3000 words</option>
+                            </select>
+                        </div>
+                        <div class="setting-item">
+                            <label>Show pronunciation:</label>
+                            <input type="checkbox" id="show-pronunciation" checked>
+                        </div>
+                        <div class="setting-item">
+                            <label>Auto-flip cards:</label>
+                            <input type="checkbox" id="auto-flip">
+                        </div>
+                    </div>
+
+                    <div class="setting-card">
+                        <h3>Quiz Settings</h3>
+                        <div class="setting-item">
+                            <label>Questions per quiz:</label>
+                            <select id="questions-per-quiz">
+                                <option value="5">5 questions</option>
+                                <option value="10" selected>10 questions</option>
+                                <option value="15">15 questions</option>
+                                <option value="20">20 questions</option>
+                                <option value="30">30 questions</option>
+                                <option value="50">50 questions</option>
+                                <option value="100">100 questions</option>
+                                <option value="200">200 questions</option>
+                                <option value="500">500 questions</option>
+                                <option value="1000">1000 questions</option>
+                                <option value="3000">3000 questions</option>
+                            </select>
+                        </div>
+                        <div class="setting-item">
+                            <label>Show explanations:</label>
+                            <input type="checkbox" id="show-explanations" checked>
+                        </div>
+                    </div>
+
+                    <div class="setting-card">
+                        <h3>AI Integration</h3>
+                        <div class="setting-item">
+                            <label>Gemini API Key:</label>
+                            <input type="password" id="gemini-api-key" placeholder="Enter your API key">
+                        </div>
+                        <p style="font-size: 0.9rem; color: #666; margin-top: 1rem;">
+                            Get your free API key from 
+                            <a href="https://aistudio.google.com/app/apikey" target="_blank">Google AI Studio</a>
+                        </p>
+                    </div>
+
+                    <div class="setting-card">
+                        <h3>Data Management</h3>
+                        <button id="export-progress" class="setting-btn">
+                            <i class="fas fa-download"></i>
+                            Export Progress
+                        </button>
+                        <button id="import-progress" class="setting-btn">
+                            <i class="fas fa-upload"></i>
+                            Import Progress
+                        </button>
+                        <button id="reset-progress" class="setting-btn danger">
+                            <i class="fas fa-trash"></i>
+                            Reset Progress
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Audio for pronunciation -->
+    <audio id="pronunciation-audio" preload="none"></audio>
+    
+    <!-- PDF.js for loading the 3000 words from local PDF -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    
+    <script src="script.js"></script>
+</body>
+</html>
