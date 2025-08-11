@@ -11,6 +11,9 @@ class LearningApp {
         this.wordsData = [];
         this.currentSessionWords = [];
         this.isLoading = false;
+    // Selected difficulty filters (A1, A2, B1, B2, or 'all')
+    this.flashcardDifficulty = 'all';
+    this.quizDifficulty = 'all';
         
         // Ensure a single global instance
         window.learningApp = this;
@@ -86,6 +89,56 @@ class LearningApp {
         document.getElementById('flashcard').addEventListener('click', () => {
             this.flipCard();
         });
+
+        // Difficulty selectors
+        const flashcardDiffSelect = document.getElementById('flashcard-difficulty');
+        if (flashcardDiffSelect) {
+            flashcardDiffSelect.addEventListener('change', (e) => {
+                this.flashcardDifficulty = e.target.value;
+                if (this.currentSection === 'flashcards') {
+                    this.initializeFlashcards();
+                }
+            });
+        }
+        const quizDiffSelect = document.getElementById('quiz-difficulty');
+        if (quizDiffSelect) {
+            quizDiffSelect.addEventListener('change', (e) => {
+                this.quizDifficulty = e.target.value;
+                if (this.currentSection === 'quiz') {
+                    this.initializeQuiz();
+                }
+            });
+        }
+
+        // Theme toggle
+        const themeToggle = document.getElementById('theme-toggle');
+        if (themeToggle) {
+            const storedTheme = localStorage.getItem('appTheme');
+            if (storedTheme === 'dark') {
+                document.body.classList.add('dark');
+                this.updateThemeToggleIcon(true);
+            }
+            themeToggle.addEventListener('click', () => {
+                const isDark = document.body.classList.toggle('dark');
+                localStorage.setItem('appTheme', isDark ? 'dark' : 'light');
+                this.updateThemeToggleIcon(isDark);
+            });
+        }
+    }
+
+    updateThemeToggleIcon(isDark) {
+        const icon = document.querySelector('#theme-toggle i');
+        const textSpan = document.querySelector('#theme-toggle .theme-text');
+        if (!icon || !textSpan) return;
+        if (isDark) {
+            icon.classList.remove('fa-moon');
+            icon.classList.add('fa-sun');
+            textSpan.textContent = 'Light';
+        } else {
+            icon.classList.remove('fa-sun');
+            icon.classList.add('fa-moon');
+            textSpan.textContent = 'Dark';
+        }
     }
 
     loadWordsData() {
@@ -10293,23 +10346,26 @@ class LearningApp {
 
     initializeFlashcards() {
         const wordsPerSession = parseInt(document.getElementById('words-per-session')?.value || 10);
-        this.currentSessionWords = this.getWordsForSession(wordsPerSession);
+        this.currentSessionWords = this.getWordsForSession(wordsPerSession, this.flashcardDifficulty);
         this.currentCardIndex = 0;
         this.displayCurrentCard();
         this.updateCardCounter();
         this.updateProgressBar();
     }
 
-    getWordsForSession(count) {
+    getWordsForSession(count, difficultyFilter = 'all') {
         // Get words based on user's progress and difficulty
         const knownWords = this.userProgress.knownWords || [];
         const unknownWords = this.userProgress.unknownWords || [];
         
         // Filter out words the user already knows well
-        const availableWords = this.wordsData.filter(word => 
-            !knownWords.includes(word.english) || 
-            Math.random() < 0.1 // 10% chance to review known words
+        let availableWords = this.wordsData.filter(word => 
+            !knownWords.includes(word.english) || Math.random() < 0.1
         );
+
+        if (difficultyFilter !== 'all') {
+            availableWords = availableWords.filter(w => (w.difficulty || '').toUpperCase() === difficultyFilter.toUpperCase());
+        }
 
         // Shuffle and take the requested number
         return this.shuffleArray(availableWords).slice(0, count);
@@ -10332,11 +10388,17 @@ class LearningApp {
         // Update front of card
         document.getElementById('english-word').textContent = word.english;
         document.getElementById('word-type').textContent = word.type;
+        const diffBadge = document.getElementById('word-difficulty');
+        if (diffBadge) {
+            diffBadge.textContent = word.difficulty || '?';
+        }
 
         // Update back of card
         document.getElementById('bengali-translation').textContent = word.bengali;
         document.getElementById('word-meaning').textContent = word.meaning;
         document.getElementById('example-text').textContent = word.example;
+        const backDiff = document.getElementById('back-difficulty');
+        if (backDiff) backDiff.textContent = word.difficulty || '?';
     }
 
     flipCard() {
@@ -10418,16 +10480,20 @@ class LearningApp {
 
     initializeQuiz() {
         const questionsPerQuiz = parseInt(document.getElementById('questions-per-quiz')?.value || 10);
-        this.quizQuestions = this.generateQuizQuestions(questionsPerQuiz);
+        this.quizQuestions = this.generateQuizQuestions(questionsPerQuiz, this.quizDifficulty);
         this.currentQuizQuestion = 0;
         this.quizScore = 0;
         this.displayQuizQuestion();
         this.updateQuizStats();
     }
 
-    generateQuizQuestions(count) {
+    generateQuizQuestions(count, difficultyFilter = 'all') {
         const questions = [];
-        const availableWords = this.shuffleArray([...this.wordsData]);
+        let filtered = [...this.wordsData];
+        if (difficultyFilter !== 'all') {
+            filtered = filtered.filter(w => (w.difficulty || '').toUpperCase() === difficultyFilter.toUpperCase());
+        }
+        const availableWords = this.shuffleArray(filtered);
         
         for (let i = 0; i < count && i < availableWords.length; i++) {
             const correctWord = availableWords[i];
@@ -10447,7 +10513,7 @@ class LearningApp {
         const options = [correctWord.bengali];
         
         // Get 3 random wrong answers
-        const otherWords = allWords.filter(w => w.english !== correctWord.english);
+    const otherWords = allWords.filter(w => w.english !== correctWord.english);
         const shuffledOthers = this.shuffleArray(otherWords);
         
         for (let i = 0; i < 3 && i < shuffledOthers.length; i++) {
@@ -10501,6 +10567,9 @@ class LearningApp {
         icon.className = isCorrect ? 'fas fa-check' : 'fas fa-times';
         text.textContent = isCorrect ? 'Correct!' : 'Incorrect!';
         explanation.textContent = `The correct answer is: ${question.correctAnswer}`;
+        if (this.quizDifficulty !== 'all') {
+            explanation.textContent += ` | Difficulty: ${question.word.difficulty || '?'}`;
+        }
 
         // Disable all options
         document.querySelectorAll('.option-btn').forEach(btn => {
@@ -10614,18 +10683,20 @@ class LearningApp {
         
         const activities = this.userProgress.activities || [];
         
+        const isDark = document.body.classList.contains('dark');
         activityList.innerHTML = activities.length === 0 ? 
-            '<p style="text-align: center; color: #666;">No recent activity</p>' : '';
+            `<p style="text-align: center; color: ${isDark ? '#9db2c5' : '#666'};">No recent activity</p>` : '';
         
         activities.slice(-5).reverse().forEach(activity => {
             const activityItem = document.createElement('div');
             activityItem.className = 'activity-item';
+            const isDark = document.body.classList.contains('dark');
             activityItem.style.padding = '1rem';
-            activityItem.style.borderBottom = '1px solid #f0f0f0';
+            activityItem.style.borderBottom = `1px solid ${isDark ? '#2a3f52' : '#f0f0f0'}`;
             activityItem.innerHTML = `
                 <div style="display: flex; justify-content: space-between; align-items: center;">
                     <span>${activity.action}</span>
-                    <small style="color: #666;">${activity.date}</small>
+                    <small style="color: ${isDark ? '#9db2c5' : '#666'};">${activity.date}</small>
                 </div>
             `;
             activityList.appendChild(activityItem);
