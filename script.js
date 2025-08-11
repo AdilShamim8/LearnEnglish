@@ -7135,7 +7135,392 @@ class LearningApp {
         "type": "verb",
         "example": "My parents always encouraged me to do my best.",
         "difficulty": "B1"
-    }
+    },
+    {
+    "english": "suggest",
+    "bengali": "প্রস্তাব করা",
+    "meaning": "Put forward an idea for consideration.",
+    "type": "verb",
+    "example": "Can you suggest a good restaurant?",
+    "difficulty": "A2"
+},
+{
+    "english": "improve",
+    "bengali": "উন্নত করা",
+    "meaning": "Make or become better.",
+    "type": "verb",
+    "example": "Reading every day can improve your vocabulary.",
+    "difficulty": "A2"
+},
+{
+    "english": "increase",
+    "bengali": "বাড়ানো",
+    "meaning": "Become or make greater in size, amount, or degree.",
+    "type": "verb",
+    "example": "Exercise can increase your energy levels.",
+    "difficulty": "A2"
+},
+{
+    "english": "reduce",
+    "bengali": "কমানো",
+    "meaning": "Make smaller or less in amount, degree, or size.",
+    "type": "verb",
+    "example": "You should try to reduce your stress.",
+    "difficulty": "A2"
+},
+{
+    "english": "major",
+    "bengali": "প্রধান",
+    "meaning": "Very important or serious.",
+    "type": "adjective",
+    "example": "Climate change is a major concern.",
+    "difficulty": "B1"
+},
+{
+    "english": "minor",
+    "bengali": "তুচ্ছ",
+    "meaning": "Not very important or serious.",
+    "type": "adjective",
+    "example": "It was a minor mistake.",
+    "difficulty": "B1"
+},
+{
+    "english": "require",
+    "bengali": "প্রয়োজন হওয়া",
+    "meaning": "Need for a particular purpose.",
+    "type": "verb",
+    "example": "This job requires a lot of skill.",
+    "difficulty": "A2"
+},
+{
+    "english": "provide",
+    "bengali": "সরবরাহ করা",
+    "meaning": "Make available for use; supply.",
+    "type": "verb",
+    "example": "The hotel provides free breakfast.",
+    "difficulty": "A2"
+},
+{
+    "english": "local",
+    "bengali": "স্থানীয়",
+    "meaning": "Related to a particular area.",
+    "type": "adjective",
+    "example": "I love the local food.",
+    "difficulty": "A2"
+},
+{
+    "english": "global",
+    "bengali": "বিশ্বব্যাপী",
+    "meaning": "Relating to the whole world.",
+    "type": "adjective",
+    "example": "English is a global language.",
+    "difficulty": "B1"
+},
+{
+    "english": "benefit",
+    "bengali": "সুবিধা",
+    "meaning": "An advantage or profit gained from something.",
+    "type": "noun",
+    "example": "Regular exercise has many benefits.",
+    "difficulty": "A2"
+},
+{
+    "english": "harm",
+    "bengali": "ক্ষতি",
+    "meaning": "Physical or mental damage.",
+    "type": "noun",
+    "example": "Smoking causes harm to your health.",
+    "difficulty": "A2"
+},
+{
+    "english": "average",
+    "bengali": "গড়",
+    "meaning": "A number expressing the central or typical value.",
+    "type": "noun",
+    "example": "The average age in the class is 20.",
+    "difficulty": "B1"
+},
+{
+    "english": "compare",
+    "bengali": "তুলনা করা",
+    "meaning": "Estimate, measure, or note the similarity or dissimilarity between.",
+    "type": "verb",
+    "example": "Compare your answers with a friend.",
+    "difficulty": "A2"
+},
+{
+    "english": "support",
+    "bengali": "সমর্থন করা",
+    "meaning": "Give assistance to.",
+    "type": "verb",
+    "example": "My family always supports me.",
+    "difficulty": "A2"
+},
+{
+    "english": "suffer",
+    "bengali": "ভোগা",
+    "meaning": "Experience or be subjected to something bad.",
+    "type": "verb",
+    "example": "He suffers from allergies.",
+    "difficulty": "B1"
+},
+{
+    "english": "prevent",
+    "bengali": "প্রতিরোধ করা",
+    "meaning": "Stop something from happening.",
+    "type": "verb",
+    "example": "Wash your hands to prevent illness.",
+    "difficulty": "A2"
+},
+{
+    "english": "contain",
+    "bengali": "ধারণ করা",
+    "meaning": "Have or hold (someone or something) within.",
+    "type": "verb",
+    "example": "This box contains old books.",
+    "difficulty": "A2"
+},
+{
+    "english": "affect",
+    "bengali": "প্রভাবিত করা",
+    "meaning": "Have an effect on; make a difference to.",
+    "type": "verb",
+    "example": "The weather can affect your mood.",
+    "difficulty": "A2"
+},
+{
+    "english": "prepare",
+    "bengali": "প্রস্তুত করা",
+    "meaning": "Make ready for use or consideration.",
+    "type": "verb",
+    "example": "I need to prepare for my exam.",
+    "difficulty": "A2"
+},
+{
+    "english": "demand",
+    "bengali": "চাহিদা",
+    "meaning": "An insistent request, made as if by right.",
+    "type": "noun",
+    "example": "There is a high demand for new phones.",
+    "difficulty": "B1"
+},
+{
+    "english": "supply",
+    "bengali": "সরবরাহ",
+    "meaning": "A stock or amount of something supplied or available.",
+    "type": "noun",
+    "example": "They have a large supply of water.",
+    "difficulty": "B1"
+},
+{
+    "english": "design",
+    "bengali": "নকশা করা",
+    "meaning": "A plan or drawing produced to show the look of something.",
+    "type": "noun",
+    "example": "She made a new dress design.",
+    "difficulty": "A2"
+},
+{
+    "english": "promise",
+    "bengali": "প্রতিশ্রুতি",
+    "meaning": "A declaration that one will do something.",
+    "type": "noun",
+    "example": "He made a promise to help.",
+    "difficulty": "A2"
+},
+{
+    "english": "replace",
+    "bengali": "প্রতিস্থাপন করা",
+    "meaning": "Take the place of.",
+    "type": "verb",
+    "example": "You should replace the batteries.",
+    "difficulty": "A2"
+},
+{
+    "english": "balance",
+    "bengali": "সামঞ্জস্য",
+    "meaning": "An even distribution of weight.",
+    "type": "noun",
+    "example": "Work-life balance is important.",
+    "difficulty": "B1"
+},
+{
+    "english": "trust",
+    "bengali": "বিশ্বাস",
+    "meaning": "Firm belief in the reliability of someone or something.",
+    "type": "noun",
+    "example": "Trust is the foundation of friendship.",
+    "difficulty": "A2"
+},
+{
+    "english": "create",
+    "bengali": "তৈরি করা",
+    "meaning": "Bring something into existence.",
+    "type": "verb",
+    "example": "She loves to create new recipes.",
+    "difficulty": "A2"
+},
+{
+    "english": "destroy",
+    "bengali": "ধ্বংস করা",
+    "meaning": "Put an end to the existence of something.",
+    "type": "verb",
+    "example": "The fire destroyed the house.",
+    "difficulty": "A2"
+},
+{
+    "english": "explore",
+    "bengali": "অন্বেষণ করা",
+    "meaning": "Travel in or through to learn about it.",
+    "type": "verb",
+    "example": "They want to explore the city.",
+    "difficulty": "A2"
+},
+{
+    "english": "express",
+    "bengali": "প্রকাশ করা",
+    "meaning": "Convey (a thought or feeling) in words or gestures.",
+    "type": "verb",
+    "example": "It's hard to express my feelings.",
+    "difficulty": "B1"
+},
+{
+    "english": "include",
+    "bengali": "অন্তর্ভুক্ত করা",
+    "meaning": "Comprise or contain as part of a whole.",
+    "type": "verb",
+    "example": "The price includes breakfast.",
+    "difficulty": "A2"
+},
+{
+    "english": "feature",
+    "bengali": "বৈশিষ্ট্য",
+    "meaning": "A distinctive attribute or aspect.",
+    "type": "noun",
+    "example": "The main feature of the phone is its camera.",
+    "difficulty": "B1"
+},
+{
+    "english": "limit",
+    "bengali": "সীমা",
+    "meaning": "A point or level beyond which something does not extend.",
+    "type": "noun",
+    "example": "There is a limit to how much I can carry.",
+    "difficulty": "A2"
+},
+{
+    "english": "allow",
+    "bengali": "অনুমতি দেওয়া",
+    "meaning": "Give the necessary time or opportunity for.",
+    "type": "verb",
+    "example": "Phones are not allowed in the exam room.",
+    "difficulty": "A2"
+},
+{
+    "english": "deny",
+    "bengali": "অস্বীকার করা",
+    "meaning": "Refuse to admit the truth or existence of.",
+    "type": "verb",
+    "example": "He denied taking the money.",
+    "difficulty": "B1"
+},
+{
+    "english": "occur",
+    "bengali": "ঘটা",
+    "meaning": "Happen; take place.",
+    "type": "verb",
+    "example": "Earthquakes occur in this region.",
+    "difficulty": "A2"
+},
+{
+    "english": "publish",
+    "bengali": "প্রকাশ করা",
+    "meaning": "Prepare and issue for public distribution.",
+    "type": "verb",
+    "example": "She published her first novel last year.",
+    "difficulty": "B1"
+},
+{
+    "english": "achieve",
+    "bengali": "অর্জন করা",
+    "meaning": "Successfully bring about or reach by effort.",
+    "type": "verb",
+    "example": "She achieved her goals.",
+    "difficulty": "A2"
+},
+{
+    "english": "fail",
+    "bengali": "ব্যর্থ হওয়া",
+    "meaning": "Be unsuccessful in achieving one's goal.",
+    "type": "verb",
+    "example": "He failed the driving test.",
+    "difficulty": "A2"
+},
+{
+    "english": "adapt",
+    "bengali": "খাপ খাওয়ানো",
+    "meaning": "Make suitable for a new use or purpose.",
+    "type": "verb",
+    "example": "Animals adapt to new environments.",
+    "difficulty": "B1"
+},
+{
+    "english": "maintain",
+    "bengali": "রক্ষা করা",
+    "meaning": "Cause or enable a condition to continue.",
+    "type": "verb",
+    "example": "It's important to maintain good health.",
+    "difficulty": "A2"
+},
+{
+    "english": "replace",
+    "bengali": "প্রতিস্থাপন করা",
+    "meaning": "Take the place of.",
+    "type": "verb",
+    "example": "We need to replace the old sofa.",
+    "difficulty": "A2"
+},
+{
+    "english": "publish",
+    "bengali": "প্রকাশ করা",
+    "meaning": "Prepare and distribute (a book, journal, or piece of music) for public sale.",
+    "type": "verb",
+    "example": "The article was published online.",
+    "difficulty": "B1"
+},
+{
+    "english": "prevent",
+    "bengali": "প্রতিরোধ করা",
+    "meaning": "Keep from happening or arising.",
+    "type": "verb",
+    "example": "Vaccines prevent diseases.",
+    "difficulty": "A2"
+},
+{
+    "english": "occur",
+    "bengali": "ঘটা",
+    "meaning": "Happen; take place.",
+    "type": "verb",
+    "example": "Accidents can occur anywhere.",
+    "difficulty": "A2"
+},
+{
+    "english": "balance",
+    "bengali": "ভারসাম্য",
+    "meaning": "A condition in which different elements are equal.",
+    "type": "noun",
+    "example": "Yoga helps maintain balance.",
+    "difficulty": "B1"
+},
+{
+    "english": "limit",
+    "bengali": "সীমাবদ্ধতা",
+    "meaning": "A restriction on the size or amount of something.",
+    "type": "noun",
+    "example": "There is a limit to your patience.",
+    "difficulty": "B1"
+}
+
 ];
 
 
