@@ -34,6 +34,10 @@
                         <i class="fas fa-cog"></i>
                         Settings
                     </button>
+                    <button id="theme-toggle" class="nav-btn" aria-label="Toggle theme" title="Toggle Light/Dark Mode">
+                        <i class="fas fa-moon"></i>
+                        <span class="theme-text">Dark</span>
+                    </button>
                 </div>
             </div>
         </nav>
@@ -81,6 +85,16 @@
                         <button id="next-card" class="control-btn">
                             <i class="fas fa-chevron-right"></i>
                         </button>
+                        <div class="difficulty-filter">
+                            <label for="flashcard-difficulty">Difficulty:</label>
+                            <select id="flashcard-difficulty">
+                                <option value="all" selected>All</option>
+                                <option value="A1">A1</option>
+                                <option value="A2">A2</option>
+                                <option value="B1">B1</option>
+                                <option value="B2">B2</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
                 
@@ -89,6 +103,7 @@
                         <div class="card-front">
                             <h3 id="english-word">Loading...</h3>
                             <p id="word-type">noun</p>
+                            <span id="word-difficulty" class="difficulty-badge top-only">A1</span>
                         </div>
                         <div class="card-back hidden">
                             <h3 id="bengali-translation">বাংলা অনুবাদ</h3>
@@ -96,6 +111,9 @@
                             <div class="example-sentence">
                                 <h4>Example:</h4>
                                 <p id="example-text">Example sentence here</p>
+                            </div>
+                            <div class="back-meta">
+                                <span class="difficulty-badge" id="back-difficulty">A1</span>
                             </div>
                         </div>
                     </div>
@@ -128,6 +146,16 @@
                     <div class="quiz-stats">
                         <span id="quiz-score">Score: 0</span>
                         <span id="quiz-progress">Question: 1/10</span>
+                        <div class="difficulty-filter">
+                            <label for="quiz-difficulty">Difficulty:</label>
+                            <select id="quiz-difficulty">
+                                <option value="all" selected>All</option>
+                                <option value="A1">A1</option>
+                                <option value="A2">A2</option>
+                                <option value="B1">B1</option>
+                                <option value="B2">B2</option>
+                            </select>
+                        </div>
                     </div>
                 </div>
 
