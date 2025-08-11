@@ -7135,6 +7135,3102 @@ class LearningApp {
         "type": "verb",
         "example": "My parents always encouraged me to do my best.",
         "difficulty": "B1"
+    },
+    {
+        "english": "end",
+        "bengali": "শেষ",
+        "meaning": "A final part of something, especially a period of time, an activity, or a story.",
+        "type": "noun, verb",
+        "example": "This is the end of the road.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "ending",
+        "bengali": "সমাপ্তি",
+        "meaning": "An end or final part of something.",
+        "type": "noun",
+        "example": "The movie has a happy ending.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "enemy",
+        "bengali": "শত্রু",
+        "meaning": "A person who is actively opposed or hostile to someone or something.",
+        "type": "noun",
+        "example": "He is my sworn enemy.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "energy",
+        "bengali": "শক্তি",
+        "meaning": "The strength and vitality required for sustained physical or mental activity.",
+        "type": "noun",
+        "example": "I don't have the energy to go out tonight.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "engage",
+        "bengali": "জড়িত থাকা",
+        "meaning": "Occupy, attract, or involve (someone's interest or attention).",
+        "type": "verb",
+        "example": "He is engaged in a new project.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "engaged",
+        "bengali": "নিযুক্ত",
+        "meaning": "Busy; occupied.",
+        "type": "adjective",
+        "example": "She is engaged to be married.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "engine",
+        "bengali": "ইঞ্জিন",
+        "meaning": "A machine with moving parts that converts power into motion.",
+        "type": "noun",
+        "example": "The car has a powerful engine.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "engineer",
+        "bengali": "প্রকৌশলী",
+        "meaning": "A person who designs, builds, or maintains engines, machines, or public works.",
+        "type": "noun",
+        "example": "He is a civil engineer.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "engineering",
+        "bengali": "প্রকৌশল",
+        "meaning": "The branch of science and technology concerned with the design, building, and use of engines, machines, and structures.",
+        "type": "noun",
+        "example": "She is studying engineering at university.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "enhance",
+        "bengali": "বৃদ্ধি করা",
+        "meaning": "Intensify, increase, or further improve the quality, value, or extent of.",
+        "type": "verb",
+        "example": "This will enhance the flavor of the dish.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "enjoy",
+        "bengali": "উপভোগ করা",
+        "meaning": "Take delight or pleasure in (an activity or occasion).",
+        "type": "verb",
+        "example": "I enjoy playing tennis.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "enormous",
+        "bengali": "বিশাল",
+        "meaning": "Very large in size, quantity, or extent.",
+        "type": "adjective",
+        "example": "He has an enormous house.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "enough",
+        "bengali": "যথেষ্ট",
+        "meaning": "As much or as many as required.",
+        "type": "determiner, pronoun, adverb",
+        "example": "Do you have enough money?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "ensure",
+        "bengali": "নিশ্চিত করা",
+        "meaning": "Make certain that (something) shall occur or be the case.",
+        "type": "verb",
+        "example": "Please ensure that the door is locked.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "enter",
+        "bengali": "প্রবেশ করা",
+        "meaning": "Come or go into (a place).",
+        "type": "verb",
+        "example": "Please enter the room.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "entertain",
+        "bengali": "বিনোদন দেওয়া",
+        "meaning": "Provide (someone) with amusement or enjoyment.",
+        "type": "verb",
+        "example": "He entertained us with his stories.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "entertainment",
+        "bengali": "বিনোদন",
+        "meaning": "The action of providing or being provided with amusement or enjoyment.",
+        "type": "noun",
+        "example": "There is a lot of entertainment in this city.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "enthusiasm",
+        "bengali": "উৎসাহ",
+        "meaning": "Intense and eager enjoyment, interest, or approval.",
+        "type": "noun",
+        "example": "He has a lot of enthusiasm for his work.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "enthusiastic",
+        "bengali": "উৎসাহী",
+        "meaning": "Having or showing intense and eager enjoyment, interest, or approval.",
+        "type": "adjective",
+        "example": "She is an enthusiastic supporter of the team.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "entire",
+        "bengali": "সম্পূর্ণ",
+        "meaning": "With no part left out; whole.",
+        "type": "adjective",
+        "example": "I read the entire book in one day.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "entirely",
+        "bengali": "সম্পূর্ণভাবে",
+        "meaning": "Completely (often used for emphasis).",
+        "type": "adverb",
+        "example": "I entirely agree with you.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "entrance",
+        "bengali": "প্রবেশদ্বার",
+        "meaning": "An opening, such as a door, passage, or gate, that allows access to a place.",
+        "type": "noun",
+        "example": "The entrance to the museum is on the other side.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "entry",
+        "bengali": "প্রবেশ",
+        "meaning": "An act of going or coming in.",
+        "type": "noun",
+        "example": "The entry fee is five dollars.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "environment",
+        "bengali": "পরিবেশ",
+        "meaning": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+        "type": "noun",
+        "example": "We need to protect the environment.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "environmental",
+        "bengali": "পরিবেশগত",
+        "meaning": "Relating to the natural world and the impact of human activity on its condition.",
+        "type": "adjective",
+        "example": "Pollution is a major environmental problem.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "episode",
+        "bengali": "পর্ব",
+        "meaning": "Each of the separate installments into which a serialized story or radio or television program is divided.",
+        "type": "noun",
+        "example": "I watched the latest episode of my favorite show.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "equal",
+        "bengali": "সমান",
+        "meaning": "Being the same in quantity, size, degree, or value.",
+        "type": "adjective, verb, noun",
+        "example": "All people are equal.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "equally",
+        "bengali": "সমানভাবে",
+        "meaning": "In the same manner or to the same extent.",
+        "type": "adverb",
+        "example": "The money was divided equally among the children.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "equipment",
+        "bengali": "সরঞ্জাম",
+        "meaning": "The necessary items for a particular purpose.",
+        "type": "noun",
+        "example": "The school needs new sports equipment.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "error",
+        "bengali": "ত্রুটি",
+        "meaning": "A mistake.",
+        "type": "noun",
+        "example": "There is an error in the calculation.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "escape",
+        "bengali": "পালানো",
+        "meaning": "Break free from confinement or control.",
+        "type": "verb, noun",
+        "example": "The prisoner escaped from jail.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "especially",
+        "bengali": "বিশেষ করে",
+        "meaning": "Used to single out one person, thing, or situation over all others.",
+        "type": "adverb",
+        "example": "I love all kinds of fruit, especially mangoes.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "essay",
+        "bengali": "প্রবন্ধ",
+        "meaning": "A short piece of writing on a particular subject.",
+        "type": "noun",
+        "example": "I have to write an essay for my English class.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "essential",
+        "bengali": "অপরিহার্য",
+        "meaning": "Absolutely necessary; extremely important.",
+        "type": "adjective",
+        "example": "Water is essential for life.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "establish",
+        "bengali": "স্থাপন করা",
+        "meaning": "Set up (an organization, system, or set of rules) on a firm or permanent basis.",
+        "type": "verb",
+        "example": "The company was established in 1950.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "estate",
+        "bengali": "এস্টেট",
+        "meaning": "An extensive area of land in the country, usually with a large house, owned by one person, family, or organization.",
+        "type": "noun",
+        "example": "He owns a large estate in the countryside.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "estimate",
+        "bengali": "হিসাব",
+        "meaning": "Roughly calculate or judge the value, number, quantity, or extent of.",
+        "type": "verb, noun",
+        "example": "Can you give me an estimate of the cost?",
+        "difficulty": "B2"
+    },
+    {
+        "english": "ethical",
+        "bengali": "নৈতিক",
+        "meaning": "Relating to moral principles or the branch of knowledge dealing with these.",
+        "type": "adjective",
+        "example": "It is not ethical to lie.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "euro",
+        "bengali": "ইউরো",
+        "meaning": "The single European currency, which replaced the national currencies of France, Germany, Spain, Italy, Greece, Portugal, Luxembourg, Austria, Finland, the Republic of Ireland, Belgium, and the Netherlands in 2002.",
+        "type": "noun",
+        "example": "This costs ten euros.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "evaluate",
+        "bengali": "মূল্যায়ন করা",
+        "meaning": "Form an idea of the amount, number, or value of; assess.",
+        "type": "verb",
+        "example": "We need to evaluate the success of the project.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "even",
+        "bengali": "এমনকি",
+        "meaning": "Used to emphasize something surprising or extreme.",
+        "type": "adverb, adjective",
+        "example": "He can't even write his own name.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "evening",
+        "bengali": "সন্ধ্যা",
+        "meaning": "The period of time at the end of the day, usually from about 6 p.m. to bedtime.",
+        "type": "noun",
+        "example": "I will see you this evening.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "event",
+        "bengali": "ঘটনা",
+        "meaning": "A thing that happens, especially one of importance.",
+        "type": "noun",
+        "example": "The wedding was a big event.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "eventually",
+        "bengali": "অবশেষে",
+        "meaning": "In the end, especially after a long delay, dispute, or series of problems.",
+        "type": "adverb",
+        "example": "He eventually found a job.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "ever",
+        "bengali": "কখনো",
+        "meaning": "At any time.",
+        "type": "adverb",
+        "example": "Have you ever been to London?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "every",
+        "bengali": "প্রতি",
+        "meaning": "Used to refer to all the individual members of a set without exception.",
+        "type": "determiner",
+        "example": "Every student has a book.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "everybody",
+        "bengali": "সবাই",
+        "meaning": "Every person.",
+        "type": "pronoun",
+        "example": "Everybody is welcome.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "everyday",
+        "bengali": "প্রতিদিনের",
+        "meaning": "Happening or used every day; daily.",
+        "type": "adjective",
+        "example": "This is an everyday occurrence.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "everyone",
+        "bengali": "সবাই",
+        "meaning": "Every person.",
+        "type": "pronoun",
+        "example": "Everyone is here.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "everything",
+        "bengali": "সবকিছু",
+        "meaning": "All things.",
+        "type": "pronoun",
+        "example": "I have everything I need.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "everywhere",
+        "bengali": "সর্বত্র",
+        "meaning": "In or to all places.",
+        "type": "adverb",
+        "example": "I have looked everywhere for my keys.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "evidence",
+        "bengali": "প্রমাণ",
+        "meaning": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+        "type": "noun",
+        "example": "There is no evidence to support his claim.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "evil",
+        "bengali": "মন্দ",
+        "meaning": "Profoundly immoral and wicked.",
+        "type": "adjective, noun",
+        "example": "He is an evil man.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "exact",
+        "bengali": "সঠিক",
+        "meaning": "Not approximated in any way; precise.",
+        "type": "adjective",
+        "example": "What is the exact time?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "exactly",
+        "bengali": "ঠিক",
+        "meaning": "Used to emphasize the accuracy of a figure or description.",
+        "type": "adverb",
+        "example": "That's exactly what I mean.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "exam",
+        "bengali": "পরীক্ষা",
+        "meaning": "A formal test of a person's knowledge or proficiency in a particular subject or skill.",
+        "type": "noun",
+        "example": "I have an exam tomorrow.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "examination",
+        "bengali": "পরীক্ষা",
+        "meaning": "A detailed inspection or study.",
+        "type": "noun",
+        "example": "The doctor gave me a thorough examination.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "examine",
+        "bengali": "পরীক্ষা করা",
+        "meaning": "Inspect (someone or something) in detail to determine their nature or condition; investigate thoroughly.",
+        "type": "verb",
+        "example": "The doctor will examine you.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "example",
+        "bengali": "উদাহরণ",
+        "meaning": "A thing characteristic of its kind or illustrating a general rule.",
+        "type": "noun",
+        "example": "Can you give me an example?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "excellent",
+        "bengali": "চমৎকার",
+        "meaning": "Extremely good; outstanding.",
+        "type": "adjective",
+        "example": "This is an excellent book.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "except",
+        "bengali": "ছাড়া",
+        "meaning": "Not including; other than.",
+        "type": "preposition, conjunction",
+        "example": "Everyone is here except John.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "exchange",
+        "bengali": "বিনিময়",
+        "meaning": "An act of giving one thing and receiving another (especially of the same type or value) in return.",
+        "type": "noun, verb",
+        "example": "I would like to exchange this shirt for a different size.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "excited",
+        "bengali": "উত্তেজিত",
+        "meaning": "Very enthusiastic and eager.",
+        "type": "adjective",
+        "example": "I am so excited about the trip.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "excitement",
+        "bengali": "উত্তেজনা",
+        "meaning": "A feeling of great enthusiasm and eagerness.",
+        "type": "noun",
+        "example": "There was a lot of excitement in the air.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "exciting",
+        "bengali": "উত্তেজনাপূর্ণ",
+        "meaning": "Causing great enthusiasm and eagerness.",
+        "type": "adjective",
+        "example": "This is a very exciting movie.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "excuse",
+        "bengali": "অজুহাত",
+        "meaning": "A reason or explanation put forward to defend or justify a fault or offense.",
+        "type": "noun, verb",
+        "example": "What is your excuse for being late?",
+        "difficulty": "B2"
+    },
+    {
+        "english": "executive",
+        "bengali": "নির্বাহী",
+        "meaning": "Relating to or having the power to put plans, actions, or laws into effect.",
+        "type": "noun, adjective",
+        "example": "She is a senior executive in the company.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "exercise",
+        "bengali": "ব্যায়াম",
+        "meaning": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+        "type": "noun, verb",
+        "example": "You should do some exercise every day.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "exhibit",
+        "bengali": "প্রদর্শন করা",
+        "meaning": "Publicly display (a work of art or item of interest) in an art gallery or museum or at a trade fair.",
+        "type": "verb, noun",
+        "example": "The museum is exhibiting a collection of ancient artifacts.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "exhibition",
+        "bengali": "প্রদর্শনী",
+        "meaning": "A public display of works of art or other items of interest, held in an art gallery or museum or at a trade fair.",
+        "type": "noun",
+        "example": "I went to an art exhibition yesterday.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "exist",
+        "bengali": "অস্তিত্ব থাকা",
+        "meaning": "Have objective reality or being.",
+        "type": "verb",
+        "example": "Do you believe that ghosts exist?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "existence",
+        "bengali": "অস্তিত্ব",
+        "meaning": "The fact or state of living or having objective reality.",
+        "type": "noun",
+        "example": "The existence of life on other planets has not been proven.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "exit",
+        "bengali": "প্রস্থান",
+        "meaning": "A way out of a public building or other place.",
+        "type": "noun, verb",
+        "example": "Where is the nearest exit?",
+        "difficulty": "B1"
+    },
+    {
+        "english": "expand",
+        "bengali": "প্রসারিত করা",
+        "meaning": "Become or make larger or more extensive.",
+        "type": "verb",
+        "example": "The company is planning to expand its operations.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "expect",
+        "bengali": "প্রত্যাশা করা",
+        "meaning": "Regard (something) as likely to happen.",
+        "type": "verb",
+        "example": "I expect to be back tomorrow.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "expectation",
+        "bengali": "প্রত্যাশা",
+        "meaning": "A strong belief that something will happen or be the case in the future.",
+        "type": "noun",
+        "example": "My expectations were not met.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "expected",
+        "bengali": "প্রত্যাশিত",
+        "meaning": "Regarded as likely to happen or be the case.",
+        "type": "adjective",
+        "example": "The expected result did not materialize.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "expense",
+        "bengali": "খরচ",
+        "meaning": "The cost required for something; the money spent on something.",
+        "type": "noun",
+        "example": "I have a lot of expenses this month.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "expensive",
+        "bengali": "দামী",
+        "meaning": "Costing a lot of money.",
+        "type": "adjective",
+        "example": "This is a very expensive car.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "experience",
+        "bengali": "অভিজ্ঞতা",
+        "meaning": "Practical contact with and observation of facts or events.",
+        "type": "noun, verb",
+        "example": "He has a lot of experience in this field.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "experienced",
+        "bengali": "অভিজ্ঞ",
+        "meaning": "Having knowledge or skill in a particular field, especially a profession or job, gained over a period of time.",
+        "type": "adjective",
+        "example": "She is an experienced teacher.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "experiment",
+        "bengali": "পরীক্ষা",
+        "meaning": "A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
+        "type": "noun, verb",
+        "example": "The scientists are conducting an experiment.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "expert",
+        "bengali": "বিশেষজ্ঞ",
+        "meaning": "A person who has a comprehensive and authoritative knowledge of or skill in a particular area.",
+        "type": "noun, adjective",
+        "example": "He is an expert in his field.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "explain",
+        "bengali": "ব্যাখ্যা করা",
+        "meaning": "Make (an idea, situation, or problem) clear to someone by describing it in more detail or revealing relevant facts or ideas.",
+        "type": "verb",
+        "example": "Can you explain this to me?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "explanation",
+        "bengali": "ব্যাখ্যা",
+        "meaning": "A statement or account that makes something clear.",
+        "type": "noun",
+        "example": "I need an explanation for your behavior.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "explode",
+        "bengali": "বিস্ফোরিত হওয়া",
+        "meaning": "Burst or shatter violently and noisily as a result of rapid combustion, decomposition, decomposition of an unstable compound, or other process.",
+        "type": "verb",
+        "example": "The bomb exploded.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "exploration",
+        "bengali": "অনুসন্ধান",
+        "meaning": "The action of exploring an unfamiliar area.",
+        "type": "noun",
+        "example": "Space exploration is a fascinating subject.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "explore",
+        "bengali": "অনুসন্ধান করা",
+        "meaning": "Travel in or through (an unfamiliar country or area) in order to learn about or familiarize oneself with it.",
+        "type": "verb",
+        "example": "We are going to explore the jungle.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "explosion",
+        "bengali": "বিস্ফোরণ",
+        "meaning": "A violent and destructive shattering or blowing apart of something, as is caused by a bomb.",
+        "type": "noun",
+        "example": "There was a loud explosion.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "export",
+        "bengali": "রপ্তানি",
+        "meaning": "Send (goods or services) to another country for sale.",
+        "type": "noun, verb",
+        "example": "The country exports a lot of goods to other countries.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "expose",
+        "bengali": "প্রকাশ করা",
+        "meaning": "Make (something) visible by uncovering it.",
+        "type": "verb",
+        "example": "He was exposed as a liar.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "express",
+        "bengali": "প্রকাশ করা",
+        "meaning": "Convey (a thought or feeling) in words or by gestures and conduct.",
+        "type": "verb",
+        "example": "She expressed her gratitude.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "expression",
+        "bengali": "অভিব্যক্তি",
+        "meaning": "The action of making known one's thoughts or feelings.",
+        "type": "noun",
+        "example": "He had a sad expression on his face.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "extend",
+        "bengali": "প্রসারিত করা",
+        "meaning": "Cause to cover a larger area; make longer or wider.",
+        "type": "verb",
+        "example": "We are going to extend our house.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "extent",
+        "bengali": "পরিধি",
+        "meaning": "The area covered by something.",
+        "type": "noun",
+        "example": "I was amazed at the extent of his knowledge.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "external",
+        "bengali": "বাহ্যিক",
+        "meaning": "Belonging to or forming the outer surface or structure of something.",
+        "type": "adjective",
+        "example": "This is for external use only.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "extra",
+        "bengali": "অতিরিক্ত",
+        "meaning": "Added to an existing or usual amount or number.",
+        "type": "adjective, noun, adverb",
+        "example": "I need some extra money.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "extraordinary",
+        "bengali": "অসাধারণ",
+        "meaning": "Very unusual or remarkable.",
+        "type": "adjective",
+        "example": "He is an extraordinary person.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "extreme",
+        "bengali": "চরম",
+        "meaning": "Reaching a high or the highest degree; very great.",
+        "type": "adjective, noun",
+        "example": "The weather is extreme in this region.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "extremely",
+        "bengali": "অত্যন্ত",
+        "meaning": "To a very great degree.",
+        "type": "adverb",
+        "example": "It is an extremely difficult problem.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "eye",
+        "bengali": "চোখ",
+        "meaning": "Each of a pair of globular organs in the head through which people and vertebrate animals see, the visible part typically appearing almond-shaped in humans.",
+        "type": "noun",
+        "example": "She has beautiful eyes.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "face",
+        "bengali": "মুখ",
+        "meaning": "The front part of a person's head from the forehead to the chin, or the corresponding part in an animal.",
+        "type": "noun, verb",
+        "example": "She has a beautiful face.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "facility",
+        "bengali": "সুবিধা",
+        "meaning": "A place, amenity, or piece of equipment provided for a particular purpose.",
+        "type": "noun",
+        "example": "The hotel has a swimming pool and other sports facilities.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fact",
+        "bengali": "সত্য",
+        "meaning": "A thing that is known or proved to be true.",
+        "type": "noun",
+        "example": "It is a fact that the earth is round.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "factor",
+        "bengali": "উপাদান",
+        "meaning": "A circumstance, fact, or influence that contributes to a result or outcome.",
+        "type": "noun",
+        "example": "Price is a major factor in our decision.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "factory",
+        "bengali": "কারখানা",
+        "meaning": "A building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+        "type": "noun",
+        "example": "He works in a factory.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fail",
+        "bengali": "ব্যর্থ হওয়া",
+        "meaning": "Be unsuccessful in achieving one's goal.",
+        "type": "verb",
+        "example": "He failed his exam.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "failure",
+        "bengali": "ব্যর্থতা",
+        "meaning": "Lack of success.",
+        "type": "noun",
+        "example": "His business was a complete failure.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fair",
+        "bengali": "ন্যায্য",
+        "meaning": "Treating people equally without favoritism or discrimination.",
+        "type": "adjective",
+        "example": "The referee was fair to both teams.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fairly",
+        "bengali": "মোটামুটি",
+        "meaning": "With justice.",
+        "type": "adverb",
+        "example": "He is a fairly good player.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "faith",
+        "bengali": "বিশ্বাস",
+        "meaning": "Complete trust or confidence in someone or something.",
+        "type": "noun",
+        "example": "I have faith in you.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fall",
+        "bengali": "পড়ে যাওয়া",
+        "meaning": "Move downward, typically rapidly and freely without control, from a higher to a lower level.",
+        "type": "verb, noun",
+        "example": "Be careful not to fall.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "false",
+        "bengali": "মিথ্যা",
+        "meaning": "Not according with truth or fact; incorrect.",
+        "type": "adjective",
+        "example": "That statement is false.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "familiar",
+        "bengali": "পরিচিত",
+        "meaning": "Well known from long or close association.",
+        "type": "adjective",
+        "example": "His face is familiar to me.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "family",
+        "bengali": "পরিবার",
+        "meaning": "A group consisting of parents and children living together as a unit.",
+        "type": "noun, adjective",
+        "example": "I have a large family.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "famous",
+        "bengali": "বিখ্যাত",
+        "meaning": "Known about by many people.",
+        "type": "adjective",
+        "example": "He is a famous actor.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fan",
+        "bengali": "পাখা",
+        "meaning": "An apparatus with rotating blades that creates a current of air for cooling or ventilation.",
+        "type": "noun",
+        "example": "Turn on the fan, it's hot.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fancy",
+        "bengali": "অভিনব",
+        "meaning": "Elaborate in structure or decoration.",
+        "type": "adjective, verb, noun",
+        "example": "She wore a fancy dress to the party.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fantastic",
+        "bengali": "অসাধারণ",
+        "meaning": "Extraordinarily good or attractive.",
+        "type": "adjective",
+        "example": "We had a fantastic time.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "far",
+        "bengali": "দূরে",
+        "meaning": "At, to, or by a great distance (used to indicate the extent to which one thing is distant from another).",
+        "type": "adverb, adjective",
+        "example": "How far is it to the station?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "farm",
+        "bengali": "খামার",
+        "meaning": "An area of land and its buildings used for growing crops and rearing animals.",
+        "type": "noun, verb",
+        "example": "My uncle has a farm.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "farmer",
+        "bengali": "কৃষক",
+        "meaning": "A person who owns or manages a farm.",
+        "type": "noun",
+        "example": "He is a farmer.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "farming",
+        "bengali": "কৃষি",
+        "meaning": "The activity or business of growing crops and raising livestock.",
+        "type": "noun",
+        "example": "Farming is an important industry in this country.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fascinating",
+        "bengali": "চিত্তাকর্ষক",
+        "meaning": "Extremely interesting.",
+        "type": "adjective",
+        "example": "This is a fascinating book.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fashion",
+        "bengali": "ফ্যাশন",
+        "meaning": "A popular or the latest style of clothing, hair, decoration, or behavior.",
+        "type": "noun",
+        "example": "She is very interested in fashion.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fashionable",
+        "bengali": "ফ্যাশনেবল",
+        "meaning": "Conforming to the latest trends of fashion; stylish.",
+        "type": "adjective",
+        "example": "She wears fashionable clothes.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fast",
+        "bengali": "দ্রুত",
+        "meaning": "Moving or capable of moving at high speed.",
+        "type": "adjective, adverb",
+        "example": "He is a fast runner.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fasten",
+        "bengali": "আঁটা",
+        "meaning": "Close or do up securely.",
+        "type": "verb",
+        "example": "Please fasten your seatbelt.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fat",
+        "bengali": "মোটা",
+        "meaning": "(of a person or animal) having a large amount of excess flesh.",
+        "type": "adjective, noun",
+        "example": "That cat is very fat.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "father",
+        "bengali": "বাবা",
+        "meaning": "A man in relation to his natural child or children.",
+        "type": "noun",
+        "example": "My father is a doctor.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fault",
+        "bengali": "দোষ",
+        "meaning": "An unattractive or unsatisfactory feature, especially in a piece of work or in a person's character.",
+        "type": "noun",
+        "example": "It's not my fault.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "favor",
+        "bengali": "অনুগ্রহ",
+        "meaning": "An act of kindness beyond what is due or usual.",
+        "type": "noun, verb",
+        "example": "Can you do me a favor?",
+        "difficulty": "B1"
+    },
+    {
+        "english": "favorite",
+        "bengali": "প্রিয়",
+        "meaning": "Preferred before all others of the same kind.",
+        "type": "adjective, noun",
+        "example": "What is your favorite color?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fear",
+        "bengali": "ভয়",
+        "meaning": "An unpleasant emotion caused by the belief that someone or something is dangerous, likely to cause pain, or a threat.",
+        "type": "noun, verb",
+        "example": "She has a fear of heights.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "feather",
+        "bengali": "পালক",
+        "meaning": "Any of the flat appendages growing from a bird's skin and forming its plumage, consisting of a partly hollow horny shaft fringed with vanes of barbs.",
+        "type": "noun",
+        "example": "The bird has beautiful feathers.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "feature",
+        "bengali": "বৈশিষ্ট্য",
+        "meaning": "A distinctive attribute or aspect of something.",
+        "type": "noun, verb",
+        "example": "This car has many new features.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "February",
+        "bengali": "ফেব্রুয়ারি",
+        "meaning": "The second month of the year, in the northern hemisphere usually considered the last month of winter.",
+        "type": "noun",
+        "example": "My birthday is in February.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "federal",
+        "bengali": "যুক্তরাষ্ট্রীয়",
+        "meaning": "Having or relating to a system of government in which several states form a unity but remain independent in internal affairs.",
+        "type": "adjective",
+        "example": "The United States has a federal government.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fee",
+        "bengali": "ফি",
+        "meaning": "A payment made to a professional person or to a professional or public body in exchange for advice or services.",
+        "type": "noun",
+        "example": "The lawyer's fee was very high.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "feed",
+        "bengali": "খাওয়ানো",
+        "meaning": "Give food to.",
+        "type": "verb, noun",
+        "example": "It's time to feed the dog.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "feedback",
+        "bengali": "মতামত",
+        "meaning": "Information about reactions to a product, a person's performance of a task, etc., used as a basis for improvement.",
+        "type": "noun",
+        "example": "I need some feedback on my work.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "feel",
+        "bengali": "অনুভব করা",
+        "meaning": "Experience (an emotion or sensation).",
+        "type": "verb, noun",
+        "example": "How do you feel?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "feeling",
+        "bengali": "অনুভূতি",
+        "meaning": "An emotional state or reaction.",
+        "type": "noun",
+        "example": "I have a strange feeling about this.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fellow",
+        "bengali": "সহকর্মী",
+        "meaning": "A person in the same position, involved in the same activity, or otherwise associated with another.",
+        "type": "adjective, noun",
+        "example": "He is a fellow of the Royal Society.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "female",
+        "bengali": "মহিলা",
+        "meaning": "Of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) that can be fertilized by male gametes.",
+        "type": "adjective, noun",
+        "example": "The lioness is a female lion.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fence",
+        "bengali": "বেড়া",
+        "meaning": "A barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of ground to mark a boundary, control access, or prevent escape.",
+        "type": "noun",
+        "example": "There is a fence around the garden.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "festival",
+        "bengali": "উৎসব",
+        "meaning": "A day or period of celebration, typically for religious reasons.",
+        "type": "noun",
+        "example": "Eid is a religious festival.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fever",
+        "bengali": "জ্বর",
+        "meaning": "An abnormally high body temperature, usually accompanied by shivering, headache, and in severe instances, delirium.",
+        "type": "noun",
+        "example": "I have a fever.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "few",
+        "bengali": "কয়েক",
+        "meaning": "A small number of.",
+        "type": "determiner, adjective, pronoun",
+        "example": "I have a few books.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fiction",
+        "bengali": "কথাসাহিত্য",
+        "meaning": "Literature in the form of prose, especially short stories and novels, that describes imaginary events and people.",
+        "type": "noun",
+        "example": "I enjoy reading fiction.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "field",
+        "bengali": "মাঠ",
+        "meaning": "An area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences.",
+        "type": "noun",
+        "example": "The cows are in the field.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fifteen",
+        "bengali": "পনেরো",
+        "meaning": "Equivalent to the product of three and five; one more than fourteen; 15.",
+        "type": "number",
+        "example": "She is fifteen years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fifth",
+        "bengali": "পঞ্চম",
+        "meaning": "Constituting number five in a sequence; 5th.",
+        "type": "number",
+        "example": "This is the fifth time I have called you.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fifty",
+        "bengali": "পঞ্চাশ",
+        "meaning": "The number equivalent to the product of five and ten; ten less than sixty; 50.",
+        "type": "number",
+        "example": "My father is fifty years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fight",
+        "bengali": "লড়াই",
+        "meaning": "Take part in a violent struggle involving the exchange of physical blows or the use of weapons.",
+        "type": "verb, noun",
+        "example": "The two boys were fighting.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fighting",
+        "bengali": "লড়াই",
+        "meaning": "The action of fighting; violence or conflict.",
+        "type": "noun",
+        "example": "There was a lot of fighting in the streets.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "figure",
+        "bengali": "চিত্র",
+        "meaning": "A number, especially one that forms part of official statistics or relates to the financial performance of a company.",
+        "type": "noun, verb",
+        "example": "The sales figures are very good.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "file",
+        "bengali": "ফাইল",
+        "meaning": "A folder or box for holding loose papers that are typically arranged in a particular order for easy reference.",
+        "type": "noun, verb",
+        "example": "Please put this in the file.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fill",
+        "bengali": "ভরা",
+        "meaning": "Cause (a space or container) to become full or almost full.",
+        "type": "verb",
+        "example": "Please fill the glass with water.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "film",
+        "bengali": "চলচ্চিত্র",
+        "meaning": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television; a movie.",
+        "type": "noun, verb",
+        "example": "I watched a good film last night.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "final",
+        "bengali": "চূড়ান্ত",
+        "meaning": "Coming at the end of a series.",
+        "type": "adjective, noun",
+        "example": "This is the final chapter of the book.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "finally",
+        "bengali": "অবশেষে",
+        "meaning": "After a long time, typically when there has been difficulty or delay.",
+        "type": "adverb",
+        "example": "He finally arrived.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "finance",
+        "bengali": "অর্থ",
+        "meaning": "The management of large amounts of money, especially by governments or large companies.",
+        "type": "noun, verb",
+        "example": "He works in finance.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "financial",
+        "bengali": "আর্থিক",
+        "meaning": "Relating to finance.",
+        "type": "adjective",
+        "example": "The company is in financial trouble.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "find",
+        "bengali": "খুঁজে পাওয়া",
+        "meaning": "Discover or perceive by chance or unexpectedly.",
+        "type": "verb",
+        "example": "I can't find my keys.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "finding",
+        "bengali": "আবিষ্কার",
+        "meaning": "The action of finding someone or something.",
+        "type": "noun",
+        "example": "The finding of the missing child was a great relief.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fine",
+        "bengali": "ভাল",
+        "meaning": "Of high quality.",
+        "type": "adjective, adverb, noun",
+        "example": "I feel fine.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "finger",
+        "bengali": "আঙুল",
+        "meaning": "Each of the four slender joints attached to either hand (or five if the thumb is included).",
+        "type": "noun",
+        "example": "He pointed his finger at me.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "finish",
+        "bengali": "শেষ করা",
+        "meaning": "Bring (a task or activity) to an end; complete.",
+        "type": "verb, noun",
+        "example": "I have to finish my homework.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fire",
+        "bengali": "আগুন",
+        "meaning": "Combustion or burning, in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke.",
+        "type": "noun, verb",
+        "example": "The house is on fire.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "firm",
+        "bengali": "দৃঢ়",
+        "meaning": "Having a solid, almost unyielding surface or structure.",
+        "type": "adjective, noun, verb",
+        "example": "This is a firm mattress.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "first",
+        "bengali": "প্রথম",
+        "meaning": "Coming before all others in time or order; earliest; 1st.",
+        "type": "determiner, number, adverb, noun",
+        "example": "This is the first time I have been here.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fish",
+        "bengali": "মাছ",
+        "meaning": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+        "type": "noun, verb",
+        "example": "I like to eat fish.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fishing",
+        "bengali": "মাছ ধরা",
+        "meaning": "The activity of catching fish, either for food or as a sport.",
+        "type": "noun",
+        "example": "We are going fishing tomorrow.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fit",
+        "bengali": "উপযুক্ত",
+        "meaning": "Of a suitable quality, standard, or type to meet the required purpose.",
+        "type": "verb, adjective, noun",
+        "example": "This shirt doesn't fit me.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fitness",
+        "bengali": "ফিটনেস",
+        "meaning": "The condition of being physically fit and healthy.",
+        "type": "noun",
+        "example": "She is a fitness enthusiast.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "five",
+        "bengali": "পাঁচ",
+        "meaning": "Equivalent to the sum of two and three; one more than four; 5.",
+        "type": "number",
+        "example": "I have five fingers on each hand.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fix",
+        "bengali": "ঠিক করা",
+        "meaning": "Mend or repair.",
+        "type": "verb, noun",
+        "example": "Can you fix my car?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fixed",
+        "bengali": "স্থির",
+        "meaning": "Fastened securely in position.",
+        "type": "adjective",
+        "example": "The price is fixed.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "flag",
+        "bengali": "পতাকা",
+        "meaning": "A piece of cloth or similar material, typically oblong or rectangular, attachable by one edge to a pole or rope and used as the symbol or emblem of a country or institution or as a decoration.",
+        "type": "noun",
+        "example": "The flag of Bangladesh is green and red.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "flame",
+        "bengali": "শিখা",
+        "meaning": "A hot glowing body of ignited gas that is generated by something on fire.",
+        "type": "noun",
+        "example": "The flames were getting bigger.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "flash",
+        "bengali": "ঝলক",
+        "meaning": "A sudden bright light.",
+        "type": "noun, verb",
+        "example": "There was a flash of lightning.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "flat",
+        "bengali": "সমতল",
+        "meaning": "Having a level surface; without raised areas or indentations.",
+        "type": "adjective, noun",
+        "example": "The ground is very flat here.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "flexible",
+        "bengali": "নমনীয়",
+        "meaning": "Capable of bending easily without breaking.",
+        "type": "adjective",
+        "example": "This material is very flexible.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "flight",
+        "bengali": "ফ্লাইট",
+        "meaning": "The action or process of flying through the air.",
+        "type": "noun",
+        "example": "My flight leaves at 10 am.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "float",
+        "bengali": "ভাসা",
+        "meaning": "Rest or move on or near the surface of a liquid without sinking.",
+        "type": "verb",
+        "example": "Wood floats on water.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "flood",
+        "bengali": "বন্যা",
+        "meaning": "An overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land.",
+        "type": "noun, verb",
+        "example": "The village was destroyed by a flood.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "floor",
+        "bengali": "মেঝে",
+        "meaning": "The lower surface of a room, on which one may walk.",
+        "type": "noun",
+        "example": "The cat is sleeping on the floor.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "flour",
+        "bengali": "ময়দা",
+        "meaning": "A powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.",
+        "type": "noun",
+        "example": "We need some flour to make a cake.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "flow",
+        "bengali": "প্রবাহ",
+        "meaning": "(of a liquid, gas, or electricity) move along or out steadily and continuously in a current or stream.",
+        "type": "verb, noun",
+        "example": "The river flows to the sea.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "flower",
+        "bengali": "ফুল",
+        "meaning": "The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals).",
+        "type": "noun",
+        "example": "She loves flowers.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "flu",
+        "bengali": "ফ্লু",
+        "meaning": "A highly contagious viral infection of the respiratory passages causing fever, severe aching, and catarrh, and often occurring in epidemics.",
+        "type": "noun",
+        "example": "I have the flu.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fly",
+        "bengali": "উড়া",
+        "meaning": "(of a bird, bat, or insect) move through the air using wings.",
+        "type": "verb, noun",
+        "example": "Birds can fly.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "flying",
+        "bengali": "উড়ন্ত",
+        "meaning": "Moving or able to move through the air with wings.",
+        "type": "noun, adjective",
+        "example": "I saw a flying saucer.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "focus",
+        "bengali": "মনোনিবেশ করা",
+        "meaning": "The center of interest or activity.",
+        "type": "verb, noun",
+        "example": "Please focus on your work.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fold",
+        "bengali": "ভাঁজ করা",
+        "meaning": "Bend (something flexible and relatively flat) over on itself so that one part of it covers another.",
+        "type": "verb, noun",
+        "example": "Please fold the clothes.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "folding",
+        "bengali": "ভাঁজ",
+        "meaning": "(of an object) able to be folded.",
+        "type": "adjective",
+        "example": "This is a folding chair.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "folk",
+        "bengali": "লোক",
+        "meaning": "People in general.",
+        "type": "noun, adjective",
+        "example": "The local folk are very friendly.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "follow",
+        "bengali": "অনুসরণ করা",
+        "meaning": "Go or come after (a person or thing proceeding ahead); move or travel behind.",
+        "type": "verb",
+        "example": "Please follow me.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "following",
+        "bengali": "অনুসরণকারী",
+        "meaning": "Coming after or as a result of.",
+        "type": "adjective, noun, preposition",
+        "example": "The following day was sunny.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "food",
+        "bengali": "খাবার",
+        "meaning": "Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+        "type": "noun",
+        "example": "I am hungry, I need some food.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "foot",
+        "bengali": "পা",
+        "meaning": "The lower extremity of the leg below the ankle, on which a person stands or walks.",
+        "type": "noun",
+        "example": "I hurt my foot.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "football",
+        "bengali": "ফুটবল",
+        "meaning": "A form of team game played with a ball between two teams of 11 players, the object being to get the ball into the opposing team's goal.",
+        "type": "noun",
+        "example": "I like to play football.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "for",
+        "bengali": "জন্য",
+        "meaning": "In support of or in favor of (a person or policy).",
+        "type": "preposition",
+        "example": "This gift is for you.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "force",
+        "bengali": "শক্তি",
+        "meaning": "Strength or energy as an attribute of physical action or movement.",
+        "type": "noun, verb",
+        "example": "The police used force to enter the building.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "foreign",
+        "bengali": "বিদেশী",
+        "meaning": "Of, from, in, or characteristic of a country or language other than one's own.",
+        "type": "adjective",
+        "example": "She speaks several foreign languages.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "forest",
+        "bengali": "বন",
+        "meaning": "A large area covered chiefly with trees and undergrowth.",
+        "type": "noun",
+        "example": "We went for a walk in the forest.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "forever",
+        "bengali": "চিরকাল",
+        "meaning": "For all future time; for always.",
+        "type": "adverb",
+        "example": "I will love you forever.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "forget",
+        "bengali": "ভুলে যাওয়া",
+        "meaning": "Fail to remember.",
+        "type": "verb",
+        "example": "Don't forget to lock the door.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "forgive",
+        "bengali": "ক্ষমা করা",
+        "meaning": "Stop feeling angry or resentful toward (someone) for an offense, flaw, or mistake.",
+        "type": "verb",
+        "example": "Please forgive me.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fork",
+        "bengali": "কাঁটাচামচ",
+        "meaning": "A utensil, usually having two or more prongs, used for lifting food to the mouth or holding it when cutting.",
+        "type": "noun",
+        "example": "I need a knife and fork.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "form",
+        "bengali": "গঠন",
+        "meaning": "The visible shape or configuration of something.",
+        "type": "noun, verb",
+        "example": "Please fill out this form.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "formal",
+        "bengali": "আনুষ্ঠানিক",
+        "meaning": "Done in accordance with rules of convention or etiquette; suitable for or constituting an official or important occasion.",
+        "type": "adjective",
+        "example": "It was a formal dinner party.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "former",
+        "bengali": "প্রাক্তন",
+        "meaning": "Having previously filled a particular role or been a particular thing.",
+        "type": "adjective",
+        "example": "The former president was at the ceremony.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fortunately",
+        "bengali": "সৌভাগ্যবশত",
+        "meaning": "It is fortunate that.",
+        "type": "adverb",
+        "example": "Fortunately, no one was hurt in the accident.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fortune",
+        "bengali": "ভাগ্য",
+        "meaning": "Chance or luck as an external, arbitrary force affecting human affairs.",
+        "type": "noun",
+        "example": "He had the good fortune to be born into a wealthy family.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "forty",
+        "bengali": "চল্লিশ",
+        "meaning": "The number equivalent to the product of four and ten; ten less than fifty; 40.",
+        "type": "number",
+        "example": "She is forty years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "forward",
+        "bengali": "সামনে",
+        "meaning": "In the direction that one is facing or traveling; toward the front.",
+        "type": "adverb",
+        "example": "He took a step forward.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "found",
+        "bengali": "স্থাপন করা",
+        "meaning": "Establish or originate (an institution or organization), especially by providing an endowment.",
+        "type": "verb",
+        "example": "The company was founded in 1950.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "four",
+        "bengali": "চার",
+        "meaning": "Equivalent to the sum of two and two; one more than three; 4.",
+        "type": "number",
+        "example": "There are four people in my family.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fourteen",
+        "bengali": "চৌদ্দ",
+        "meaning": "Equivalent to the sum of ten and four; one more than thirteen; 14.",
+        "type": "number",
+        "example": "She is fourteen years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fourth",
+        "bengali": "চতুর্থ",
+        "meaning": "Constituting number four in a sequence; 4th.",
+        "type": "number",
+        "example": "This is the fourth time I have called you.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "frame",
+        "bengali": "ফ্রেম",
+        "meaning": "A rigid structure that surrounds or encloses something such as a picture, door, or windowpane.",
+        "type": "noun, verb",
+        "example": "The picture is in a beautiful frame.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "free",
+        "bengali": "বিনামূল্যে",
+        "meaning": "Not under the control or in the power of another; able to do or be as one wishes.",
+        "type": "adjective, adverb, verb",
+        "example": "The museum is free on Sundays.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "freedom",
+        "bengali": "স্বাধীনতা",
+        "meaning": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+        "type": "noun",
+        "example": "We fought for our freedom.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "freeze",
+        "bengali": "জমাট বাঁধা",
+        "meaning": "(of a liquid) be turned into ice or another solid as a result of extreme cold.",
+        "type": "verb",
+        "example": "The water in the lake will freeze in winter.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "frequency",
+        "bengali": "কম্পাঙ্ক",
+        "meaning": "The rate at which something occurs or is repeated over a particular period of time or in a given sample.",
+        "type": "noun",
+        "example": "The frequency of accidents on this road is high.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "frequently",
+        "bengali": "ঘন ঘন",
+        "meaning": "Often.",
+        "type": "adverb",
+        "example": "He frequently travels abroad.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "fresh",
+        "bengali": "তাজা",
+        "meaning": "(of food) recently made or obtained; not canned, frozen, or otherwise preserved.",
+        "type": "adjective",
+        "example": "I like fresh fruit.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "Friday",
+        "bengali": "শুক্রবার",
+        "meaning": "The day of the week before Saturday and following Thursday.",
+        "type": "noun",
+        "example": "I have a meeting on Friday.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "friend",
+        "bengali": "বন্ধু",
+        "meaning": "A person whom one knows and with whom one has a bond of mutual affection, typically exclusive of sexual or family relations.",
+        "type": "noun",
+        "example": "He is my best friend.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "friendly",
+        "bengali": "বন্ধুত্বপূর্ণ",
+        "meaning": "Kind and pleasant.",
+        "type": "adjective",
+        "example": "She is a friendly person.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "friendship",
+        "bengali": "বন্ধুত্ব",
+        "meaning": "The emotions or conduct of friends; the state of being friends.",
+        "type": "noun",
+        "example": "Their friendship is very strong.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "frighten",
+        "bengali": "ভয় দেখানো",
+        "meaning": "Make (someone) afraid or anxious.",
+        "type": "verb",
+        "example": "The loud noise frightened the baby.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "frightened",
+        "bengali": "ভীত",
+        "meaning": "Afraid or anxious.",
+        "type": "adjective",
+        "example": "I am frightened of spiders.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "frightening",
+        "bengali": "ভয়ঙ্কর",
+        "meaning": "Making someone afraid or anxious; terrifying.",
+        "type": "adjective",
+        "example": "It was a frightening experience.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "frog",
+        "bengali": "ব্যাঙ",
+        "meaning": "A tailless amphibian with a short stout body and short forelimbs, modified for leaping.",
+        "type": "noun",
+        "example": "The frog jumped into the pond.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "from",
+        "bengali": "থেকে",
+        "meaning": "Indicating the point in space at which a journey, motion, or action starts.",
+        "type": "preposition",
+        "example": "I am from Bangladesh.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "front",
+        "bengali": "সামনে",
+        "meaning": "The side or part of an object that presents itself to view or that is normally seen or used first; the most forward part of something.",
+        "type": "noun, adjective",
+        "example": "The front of the house needs painting.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "frozen",
+        "bengali": "হিমায়িত",
+        "meaning": "(of a liquid) having been turned into ice or another solid as a result of extreme cold.",
+        "type": "adjective",
+        "example": "The lake is frozen in winter.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fruit",
+        "bengali": "ফল",
+        "meaning": "The sweet, fleshy product of a tree or other plant that contains seed and can be eaten as food.",
+        "type": "noun",
+        "example": "I like to eat fruit.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fry",
+        "bengali": "ভাজা",
+        "meaning": "Cook (food) in hot fat or oil, typically in a shallow pan.",
+        "type": "verb",
+        "example": "I will fry some eggs for breakfast.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fuel",
+        "bengali": "জ্বালানী",
+        "meaning": "Material such as coal, gas, or oil that is burned to produce heat or power.",
+        "type": "noun, verb",
+        "example": "The car is running out of fuel.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "full",
+        "bengali": "পূর্ণ",
+        "meaning": "Containing or holding as much or as many as possible; having no empty space.",
+        "type": "adjective",
+        "example": "The glass is full of water.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fully",
+        "bengali": "সম্পূর্ণভাবে",
+        "meaning": "Completely or entirely.",
+        "type": "adverb",
+        "example": "I am fully aware of the situation.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fun",
+        "bengali": "মজা",
+        "meaning": "Enjoyment, amusement, or lighthearted pleasure.",
+        "type": "noun, adjective",
+        "example": "We had a lot of fun at the party.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "function",
+        "bengali": "কার্যকলাপ",
+        "meaning": "An activity or purpose natural to or intended for a person or thing.",
+        "type": "noun, verb",
+        "example": "The function of the heart is to pump blood.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "fund",
+        "bengali": "তহবিল",
+        "meaning": "A sum of money saved or made available for a particular purpose.",
+        "type": "noun, verb",
+        "example": "We need to raise funds for the new hospital.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "fundamental",
+        "bengali": "মৌলিক",
+        "meaning": "Forming a necessary base or core; of central importance.",
+        "type": "adjective",
+        "example": "This is a fundamental principle of our society.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "funding",
+        "bengali": "তহবিল",
+        "meaning": "Money provided, especially by an organization or government, for a particular purpose.",
+        "type": "noun",
+        "example": "The project has been canceled due to lack of funding.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "funny",
+        "bengali": "মজাদার",
+        "meaning": "Causing laughter or amusement; humorous.",
+        "type": "adjective",
+        "example": "He told a funny story.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "fur",
+        "bengali": "পশম",
+        "meaning": "The short, fine, soft hair of certain animals.",
+        "type": "noun",
+        "example": "The cat has soft fur.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "furniture",
+        "bengali": "আসবাবপত্র",
+        "meaning": "The movable articles that are used to make a room or building suitable for living or working in, such as tables, chairs, or desks.",
+        "type": "noun",
+        "example": "We need to buy some new furniture.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "further",
+        "bengali": "আরও",
+        "meaning": "At, to, or by a greater distance (used to indicate the extent to which one thing is distant from another).",
+        "type": "adjective, adverb, verb",
+        "example": "For further information, please contact us.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "furthermore",
+        "bengali": "অধিকন্তু",
+        "meaning": "In addition; besides (used to add a point to an argument).",
+        "type": "adverb",
+        "example": "The house is beautiful. Furthermore, it's in a great location.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "future",
+        "bengali": "ভবিষ্যৎ",
+        "meaning": "The time or a period of time following the moment of speaking or writing; time regarded as still to come.",
+        "type": "noun, adjective",
+        "example": "What are your plans for the future?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "gain",
+        "bengali": "লাভ",
+        "meaning": "Obtain or secure (something desired, favorable, or profitable).",
+        "type": "verb, noun",
+        "example": "He hopes to gain some experience.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "gallery",
+        "bengali": "গ্যালারি",
+        "meaning": "A room or building for the display or sale of works of art.",
+        "type": "noun",
+        "example": "I went to an art gallery yesterday.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "game",
+        "bengali": "খেলা",
+        "meaning": "An activity that one engages in for amusement or fun.",
+        "type": "noun",
+        "example": "Let's play a game.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "gang",
+        "bengali": "দল",
+        "meaning": "An organized group of criminals.",
+        "type": "noun",
+        "example": "He is a member of a gang.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "gap",
+        "bengali": "ফাঁক",
+        "meaning": "A break or hole in an object or between two objects.",
+        "type": "noun",
+        "example": "There is a gap in the fence.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "garage",
+        "bengali": "গ্যারেজ",
+        "meaning": "A building for housing a motor vehicle or vehicles.",
+        "type": "noun",
+        "example": "My car is in the garage.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "garbage",
+        "bengali": "আবর্জনা",
+        "meaning": "Wasted or spoiled food and other refuse, as from a kitchen or household.",
+        "type": "noun",
+        "example": "Please take out the garbage.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "garden",
+        "bengali": "বাগান",
+        "meaning": "A piece of ground, often near a house, used for growing flowers, fruit, or vegetables.",
+        "type": "noun",
+        "example": "My mother is working in the garden.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "gas",
+        "bengali": "গ্যাস",
+        "meaning": "An airlike fluid substance which expands freely to fill any space available, irrespective of its quantity.",
+        "type": "noun",
+        "example": "The car is running on gas.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "gate",
+        "bengali": "ফটক",
+        "meaning": "A hinged barrier used to close an opening in a wall, fence, or hedge.",
+        "type": "noun",
+        "example": "Please close the gate.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "gather",
+        "bengali": "জড়ো করা",
+        "meaning": "Come together; assemble or accumulate.",
+        "type": "verb",
+        "example": "A crowd gathered to see what was happening.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "general",
+        "bengali": "সাধারণ",
+        "meaning": "Affecting or concerning all or most people, places, or things; widespread.",
+        "type": "adjective",
+        "example": "This is a matter of general interest.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "generally",
+        "bengali": "সাধারণত",
+        "meaning": "In most cases; usually.",
+        "type": "adverb",
+        "example": "Generally, I don't like spicy food.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "generate",
+        "bengali": "উৎপাদন করা",
+        "meaning": "Cause (something, especially an emotion or situation) to arise or come about.",
+        "type": "verb",
+        "example": "The new factory will generate a lot of jobs.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "generation",
+        "bengali": "প্রজন্ম",
+        "meaning": "All of the people born and living at about the same time, regarded collectively.",
+        "type": "noun",
+        "example": "The younger generation is very interested in technology.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "generous",
+        "bengali": "উদার",
+        "meaning": "(of a person) showing a readiness to give more of something, as money or time, than is strictly necessary or expected.",
+        "type": "adjective",
+        "example": "He is a very generous person.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "genre",
+        "bengali": "ধরন",
+        "meaning": "A style or category of art, music, or literature.",
+        "type": "noun",
+        "example": "What is your favorite genre of music?",
+        "difficulty": "B2"
+    },
+    {
+        "english": "gentle",
+        "bengali": "শান্ত",
+        "meaning": "Having or showing a mild, kind, or tender temperament or character.",
+        "type": "adjective",
+        "example": "He has a gentle voice.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "gentleman",
+        "bengali": "ভদ্রলোক",
+        "meaning": "A chivalrous, courteous, or honorable man.",
+        "type": "noun",
+        "example": "He is a perfect gentleman.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "geography",
+        "bengali": "ভূগোল",
+        "meaning": "The study of the physical features of the earth and its atmosphere, and of human activity as it affects and is affected by these.",
+        "type": "noun",
+        "example": "I am studying geography at university.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "get",
+        "bengali": "পাওয়া",
+        "meaning": "Come to have or hold (something); receive.",
+        "type": "verb",
+        "example": "I need to get a new phone.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "ghost",
+        "bengali": "ভূত",
+        "meaning": "An apparition of a dead person which is believed to appear or become manifest to the living, typically as a nebulous image.",
+        "type": "noun",
+        "example": "Do you believe in ghosts?",
+        "difficulty": "B1"
+    },
+    {
+        "english": "giant",
+        "bengali": "দৈত্য",
+        "meaning": "An imaginary or mythical being of human form but superhuman size.",
+        "type": "adjective, noun",
+        "example": "He is a giant of a man.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "gift",
+        "bengali": "উপহার",
+        "meaning": "A thing given willingly to someone without payment; a present.",
+        "type": "noun",
+        "example": "I received a beautiful gift for my birthday.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "girl",
+        "bengali": "মেয়ে",
+        "meaning": "A female child or young woman.",
+        "type": "noun",
+        "example": "The girl is playing with a doll.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "girlfriend",
+        "bengali": "প্রেমিকা",
+        "meaning": "A person's regular female companion with whom they have a romantic or sexual relationship.",
+        "type": "noun",
+        "example": "He is going out with his girlfriend.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "give",
+        "bengali": "দেওয়া",
+        "meaning": "Freely transfer the possession of something to (someone); hand over to.",
+        "type": "verb",
+        "example": "Can you give me a pen?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "glad",
+        "bengali": "খুশি",
+        "meaning": "Feeling pleasure or happiness.",
+        "type": "adjective",
+        "example": "I am glad to see you.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "glass",
+        "bengali": "গ্লাস",
+        "meaning": "A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly. It is used to make windows, drinking containers, and other articles.",
+        "type": "noun",
+        "example": "I would like a glass of water.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "global",
+        "bengali": "বৈশ্বিক",
+        "meaning": "Relating to the whole world; worldwide.",
+        "type": "adjective",
+        "example": "Climate change is a global problem.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "glove",
+        "bengali": "দস্তানা",
+        "meaning": "A covering for the hand worn for protection against cold or dirt and typically having separate parts for each finger and the thumb.",
+        "type": "noun",
+        "example": "She was wearing a pair of white gloves.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "go",
+        "bengali": "যাওয়া",
+        "meaning": "Move from one place to another; travel.",
+        "type": "verb, noun",
+        "example": "I need to go to the store.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "goal",
+        "bengali": "লক্ষ্য",
+        "meaning": "The object of a person's ambition or effort; an aim or desired result.",
+        "type": "noun",
+        "example": "My goal is to become a doctor.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "god",
+        "bengali": "ঈশ্বর",
+        "meaning": "(in Christianity and other monotheistic religions) the creator and ruler of the universe and source of all moral authority; the supreme being.",
+        "type": "noun",
+        "example": "Many people believe in God.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "gold",
+        "bengali": "সোনা",
+        "meaning": "A yellow precious metal, the chemical element of atomic number 79, used especially in jewelry and decoration and to guarantee the value of currencies.",
+        "type": "noun, adjective",
+        "example": "The ring is made of gold.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "golf",
+        "bengali": "গলফ",
+        "meaning": "A game played on a large open-air course, in which a small hard ball is struck with a club into a series of small holes in the ground, the object being to take the fewest possible strokes to complete the course.",
+        "type": "noun",
+        "example": "He loves to play golf.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "good",
+        "bengali": "ভাল",
+        "meaning": "To be desired or approved of.",
+        "type": "adjective, noun",
+        "example": "This is a good book.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "goodbye",
+        "bengali": "বিদায়",
+        "meaning": "Used to express good wishes when parting or at the end of a conversation.",
+        "type": "exclamation, noun",
+        "example": "He said goodbye and left.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "goods",
+        "bengali": "পণ্য",
+        "meaning": "Merchandise or possessions.",
+        "type": "noun",
+        "example": "The store sells a variety of goods.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "govern",
+        "bengali": "শাসন করা",
+        "meaning": "Conduct the policy, actions, and affairs of (a state, organization, or people).",
+        "type": "verb",
+        "example": "The country is governed by a president.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "government",
+        "bengali": "সরকার",
+        "meaning": "The group of people with the authority to govern a country or state; a particular ministry in office.",
+        "type": "noun",
+        "example": "The government has announced new policies.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "governor",
+        "bengali": "গভর্নর",
+        "meaning": "The elected executive head of a state of the US.",
+        "type": "noun",
+        "example": "He is the governor of the state.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "grab",
+        "bengali": "ধরা",
+        "meaning": "Seize or grasp suddenly and roughly.",
+        "type": "verb",
+        "example": "He grabbed the bag and ran.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "grade",
+        "bengali": "গ্রেড",
+        "meaning": "A particular level of rank, quality, proficiency, or value.",
+        "type": "noun, verb",
+        "example": "She got a good grade on her exam.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "gradually",
+        "bengali": "ধীরে ধীরে",
+        "meaning": "In a gradual way; slowly; by degrees.",
+        "type": "adverb",
+        "example": "The weather is gradually getting warmer.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "graduate",
+        "bengali": "স্নাতক",
+        "meaning": "A person who has successfully completed a course of study or training, especially a person who has been awarded an undergraduate academic degree.",
+        "type": "noun, verb",
+        "example": "She is a graduate of Dhaka University.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "grain",
+        "bengali": "শস্য",
+        "meaning": "Wheat or any other cultivated cereal crop used as food.",
+        "type": "noun",
+        "example": "We need to buy some grain for the chickens.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "grand",
+        "bengali": "भव्य",
+        "meaning": "Magnificent and imposing in appearance, size, or style.",
+        "type": "adjective",
+        "example": "It was a grand wedding.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "grandfather",
+        "bengali": "দাদা",
+        "meaning": "The father of one's father or mother.",
+        "type": "noun",
+        "example": "My grandfather is a very wise man.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "grandmother",
+        "bengali": "দাদী",
+        "meaning": "The mother of one's father or mother.",
+        "type": "noun",
+        "example": "My grandmother makes the best cookies.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "grandparent",
+        "bengali": "দাদা-দাদী",
+        "meaning": "A parent of one's father or mother; a grandfather or grandmother.",
+        "type": "noun",
+        "example": "I am going to visit my grandparents.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "grant",
+        "bengali": "মঞ্জুর করা",
+        "meaning": "Agree to give or allow (something requested) to.",
+        "type": "verb, noun",
+        "example": "The government granted him a visa.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "grass",
+        "bengali": "ঘাস",
+        "meaning": "Vegetation consisting of typically short plants with long, narrow leaves, growing wild or cultivated on lawns and pasture, and as a fodder crop.",
+        "type": "noun",
+        "example": "The grass is green.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "grateful",
+        "bengali": "কৃতজ্ঞ",
+        "meaning": "Feeling or showing an appreciation of kindness; thankful.",
+        "type": "adjective",
+        "example": "I am grateful for your help.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "gray",
+        "bengali": "ধূসর",
+        "meaning": "Of a color intermediate between black and white, as of ashes or lead.",
+        "type": "adjective, noun",
+        "example": "The sky is gray.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "great",
+        "bengali": "মহান",
+        "meaning": "Of an extent, amount, or intensity considerably above the normal or average.",
+        "type": "adjective",
+        "example": "He is a great leader.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "green",
+        "bengali": "সবুজ",
+        "meaning": "Of the color between blue and yellow in the spectrum; colored like grass or emeralds.",
+        "type": "adjective, noun",
+        "example": "The trees are green.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "greet",
+        "bengali": "অভিবাদন জানানো",
+        "meaning": "Give a polite word or sign of welcome or recognition to (someone) on meeting.",
+        "type": "verb",
+        "example": "He greeted me with a smile.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "grocery",
+        "bengali": "মুদি",
+        "meaning": "A grocer's shop or business.",
+        "type": "noun",
+        "example": "I need to go to the grocery store.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "ground",
+        "bengali": "মাটি",
+        "meaning": "The solid surface of the earth.",
+        "type": "noun",
+        "example": "He fell to the ground.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "group",
+        "bengali": "দল",
+        "meaning": "A number of people or things that are located close together or are considered or classed together.",
+        "type": "noun",
+        "example": "A group of people were standing outside.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "grow",
+        "bengali": "বৃদ্ধি পাওয়া",
+        "meaning": "(of a living thing) undergo natural development by increasing in size and changing physically; progress to maturity.",
+        "type": "verb",
+        "example": "The plants are growing well.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "growth",
+        "bengali": "বৃদ্ধি",
+        "meaning": "The process of increasing in size.",
+        "type": "noun",
+        "example": "The company has seen rapid growth.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "guarantee",
+        "bengali": "গ্যারান্টি",
+        "meaning": "A formal promise or assurance (typically in writing) that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a specified quality and durability.",
+        "type": "verb, noun",
+        "example": "The watch comes with a two-year guarantee.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "guard",
+        "bengali": "পাহারাদার",
+        "meaning": "Watch over in order to protect or control.",
+        "type": "noun, verb",
+        "example": "The soldiers are guarding the palace.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "guess",
+        "bengali": "অনুমান করা",
+        "meaning": "Estimate or suppose (something) without sufficient information to be sure of being correct.",
+        "type": "verb, noun",
+        "example": "Can you guess the answer?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "guest",
+        "bengali": "অতিথি",
+        "meaning": "A person who is invited to visit the home of or take part in a function organized by another.",
+        "type": "noun",
+        "example": "We have a guest for dinner.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "guide",
+        "bengali": "গাইড",
+        "meaning": "A person who shows the way to others, especially one employed to show tourists around places of interest.",
+        "type": "noun, verb",
+        "example": "Our guide showed us around the city.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "guilty",
+        "bengali": "দোষী",
+        "meaning": "Justly chargeable with a particular fault or error.",
+        "type": "adjective",
+        "example": "The jury found him guilty.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "guitar",
+        "bengali": "গিটার",
+        "meaning": "A stringed musical instrument with a fretted fingerboard, typically incurved sides, and six or twelve strings, played by plucking or strumming with the fingers or a plectrum.",
+        "type": "noun",
+        "example": "He can play the guitar.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "gun",
+        "bengali": "বন্দুক",
+        "meaning": "A weapon incorporating a metal tube from which bullets, shells, or other missiles are propelled by explosive force, typically making a characteristic loud report.",
+        "type": "noun",
+        "example": "The police found a gun at the scene of the crime.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "guy",
+        "bengali": "লোক",
+        "meaning": "A man.",
+        "type": "noun",
+        "example": "He's a nice guy.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "gym",
+        "bengali": "জিম",
+        "meaning": "A gymnasium.",
+        "type": "noun",
+        "example": "I go to the gym every day.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "habit",
+        "bengali": "অভ্যাস",
+        "meaning": "A settled or regular tendency or practice, especially one that is hard to give up.",
+        "type": "noun",
+        "example": "Smoking is a bad habit.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "hair",
+        "bengali": "চুল",
+        "meaning": "Any of the fine threadlike strands growing from the skin of humans, mammals, and some other animals.",
+        "type": "noun",
+        "example": "She has long hair.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "half",
+        "bengali": "অর্ধেক",
+        "meaning": "Either of two equal or corresponding parts into which something is or can be divided.",
+        "type": "noun, determiner, pronoun, adverb",
+        "example": "I'll have half a glass of milk.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hall",
+        "bengali": "হল",
+        "meaning": "The room or space just inside the front entrance of a house or apartment.",
+        "type": "noun",
+        "example": "The meeting will be held in the main hall.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "hand",
+        "bengali": "হাত",
+        "meaning": "The end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.",
+        "type": "noun, verb",
+        "example": "He held her hand.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "handle",
+        "bengali": "হাতল",
+        "meaning": "The part by which a thing is held, carried, or controlled.",
+        "type": "verb, noun",
+        "example": "The handle of the cup is broken.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "hang",
+        "bengali": "ঝুলানো",
+        "meaning": "Suspend or be suspended from above with the lower part dangling free.",
+        "type": "verb",
+        "example": "Please hang your coat on the hook.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "happen",
+        "bengali": "ঘটা",
+        "meaning": "Take place; occur.",
+        "type": "verb",
+        "example": "What happened?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "happily",
+        "bengali": "আনন্দের সাথে",
+        "meaning": "In a happy way.",
+        "type": "adverb",
+        "example": "They lived happily ever after.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "happiness",
+        "bengali": "সুখ",
+        "meaning": "The state of being happy.",
+        "type": "noun",
+        "example": "Money can't buy happiness.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "happy",
+        "bengali": "খুশি",
+        "meaning": "Feeling or showing pleasure or contentment.",
+        "type": "adjective",
+        "example": "I am happy to see you.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hard",
+        "bengali": "কঠিন",
+        "meaning": "Solid, firm, and rigid; not easily broken, bent, or pierced.",
+        "type": "adjective, adverb",
+        "example": "This is a hard question.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hardly",
+        "bengali": "কদাচিৎ",
+        "meaning": "Scarcely (used to qualify a statement by saying that it is true to an insignificant degree).",
+        "type": "adverb",
+        "example": "I hardly know him.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "harm",
+        "bengali": "ক্ষতি",
+        "meaning": "Physical injury, especially that which is deliberately inflicted.",
+        "type": "noun, verb",
+        "example": "The storm caused a lot of harm to the crops.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "harmful",
+        "bengali": "ক্ষতিকর",
+        "meaning": "Causing or likely to cause harm.",
+        "type": "adjective",
+        "example": "Smoking is harmful to your health.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "hat",
+        "bengali": "টুপি",
+        "meaning": "A shaped covering for the head worn for warmth, as a fashion item, or as part of a uniform.",
+        "type": "noun",
+        "example": "She was wearing a beautiful hat.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hate",
+        "bengali": "ঘৃণা করা",
+        "meaning": "Feel intense or passionate dislike for (someone).",
+        "type": "verb, noun",
+        "example": "I hate spiders.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "have",
+        "bengali": "আছে",
+        "meaning": "Possess, own, or hold.",
+        "type": "verb, auxiliary verb",
+        "example": "I have a car.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "have to",
+        "bengali": "করতে হবে",
+        "meaning": "Must (expressing obligation).",
+        "type": "modal verb",
+        "example": "I have to go now.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "he",
+        "bengali": "সে",
+        "meaning": "Used to refer to a man, boy, or male animal previously mentioned or easily identified.",
+        "type": "pronoun",
+        "example": "He is my brother.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "head",
+        "bengali": "মাথা",
+        "meaning": "The upper part of the human body, or the front or upper part of the body of an animal, typically separated from the rest of the body by a neck, and containing the brain, mouth, and sense organs.",
+        "type": "noun, verb",
+        "example": "I have a pain in my head.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "headache",
+        "bengali": "মাথাব্যথা",
+        "meaning": "A continuous pain in the head.",
+        "type": "noun",
+        "example": "I have a headache.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "headline",
+        "bengali": "শিরোনাম",
+        "meaning": "A heading at the top of an article or page in a newspaper or magazine.",
+        "type": "noun",
+        "example": "The story was on the front page headline.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "health",
+        "bengali": "স্বাস্থ্য",
+        "meaning": "The state of being free from illness or injury.",
+        "type": "noun",
+        "example": "Health is wealth.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "healthy",
+        "bengali": "স্বাস্থ্যকর",
+        "meaning": "In a good physical or mental condition; in good health.",
+        "type": "adjective",
+        "example": "She is a healthy person.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hear",
+        "bengali": "শোনা",
+        "meaning": "Perceive with the ear the sound made by (someone or something).",
+        "type": "verb",
+        "example": "Can you hear me?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hearing",
+        "bengali": "শুনানি",
+        "meaning": "The faculty of perceiving sounds.",
+        "type": "noun",
+        "example": "His hearing is not very good.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "heart",
+        "bengali": "হৃৎপিণ্ড",
+        "meaning": "A hollow muscular organ that pumps the blood through the circulatory system by contraction and relaxation.",
+        "type": "noun",
+        "example": "He has a weak heart.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "heat",
+        "bengali": "তাপ",
+        "meaning": "The quality of being hot; high temperature.",
+        "type": "noun, verb",
+        "example": "I can't stand the heat.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "heating",
+        "bengali": "গরম করা",
+        "meaning": "The technology of providing warmth to a building or other space.",
+        "type": "noun",
+        "example": "The heating is not working.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "heaven",
+        "bengali": "স্বর্গ",
+        "meaning": "A place regarded in various religions as the abode of God (or the gods) and the angels, and of the good after death, often traditionally depicted as being above the sky.",
+        "type": "noun",
+        "example": "She believes she will go to heaven when she dies.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "heavily",
+        "bengali": "প্রচুর পরিমাণে",
+        "meaning": "To a great degree; in large amounts.",
+        "type": "adverb",
+        "example": "It was raining heavily.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "heavy",
+        "bengali": "ভারী",
+        "meaning": "Of great weight; difficult to lift or move.",
+        "type": "adjective",
+        "example": "This box is very heavy.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "heel",
+        "bengali": "গোড়ালি",
+        "meaning": "The back part of the foot below the ankle.",
+        "type": "noun",
+        "example": "I have a pain in my heel.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "height",
+        "bengali": "উচ্চতা",
+        "meaning": "The measurement from base to top or (of a standing person) from head to foot.",
+        "type": "noun",
+        "example": "What is your height?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "helicopter",
+        "bengali": "হেলিকপ্টার",
+        "meaning": "A type of aircraft which derives both lift and propulsion from one or more sets of horizontally revolving rotors.",
+        "type": "noun",
+        "example": "The helicopter landed on the roof of the building.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "hell",
+        "bengali": "নরক",
+        "meaning": "A place regarded in various religions as a spiritual realm of evil and suffering, often traditionally depicted as a place of perpetual fire beneath the earth where the wicked are punished after death.",
+        "type": "noun",
+        "example": "He was going through hell.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "hello",
+        "bengali": "হ্যালো",
+        "meaning": "Used as a greeting or to begin a phone conversation.",
+        "type": "exclamation, noun",
+        "example": "Hello, how are you?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "help",
+        "bengali": "সাহায্য করা",
+        "meaning": "Make it easier for (someone) to do something by offering one's services or resources.",
+        "type": "verb, noun",
+        "example": "Can you help me?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "helpful",
+        "bengali": "সহায়ক",
+        "meaning": "Giving or ready to give help.",
+        "type": "adjective",
+        "example": "He is a very helpful person.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "her",
+        "bengali": "তার",
+        "meaning": "Used as the object of a verb or preposition to refer to a female person or animal previously mentioned or easily identified.",
+        "type": "pronoun, determiner",
+        "example": "I saw her yesterday.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "here",
+        "bengali": "এখানে",
+        "meaning": "In, at, or to this place or position.",
+        "type": "adverb",
+        "example": "Please come here.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hero",
+        "bengali": "নায়ক",
+        "meaning": "A person who is admired or idealized for courage, outstanding achievements, or noble qualities.",
+        "type": "noun",
+        "example": "He is a national hero.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "hers",
+        "bengali": "তার",
+        "meaning": "Used to refer to a thing or things belonging to or associated with a female person or animal previously mentioned.",
+        "type": "pronoun",
+        "example": "This book is hers.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "herself",
+        "bengali": "নিজেই",
+        "meaning": "Used as the object of a verb or preposition to refer to a female person or animal previously mentioned as the subject of the clause.",
+        "type": "pronoun",
+        "example": "She did it herself.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "hesitate",
+        "bengali": "দ্বিধা করা",
+        "meaning": "Pause before saying or doing something, especially through uncertainty.",
+        "type": "verb",
+        "example": "Don't hesitate to ask for help.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "hey",
+        "bengali": "হেই",
+        "meaning": "Used to attract attention, to express surprise, interest, or annoyance, or to elicit agreement.",
+        "type": "exclamation",
+        "example": "Hey, what are you doing?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hi",
+        "bengali": "হাই",
+        "meaning": "Used as a friendly greeting.",
+        "type": "exclamation",
+        "example": "Hi, how are you?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "hide",
+        "bengali": "লুকানো",
+        "meaning": "Put or keep out of sight; conceal from the view or notice of others.",
+        "type": "verb",
+        "example": "The cat is hiding under the bed.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "high",
+        "bengali": "উচ্চ",
+        "meaning": "Of great vertical extent.",
+        "type": "adjective, adverb, noun",
+        "example": "The mountain is very high.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "highlight",
+        "bengali": "হাইলাইট",
+        "meaning": "An outstanding part of an event or period of time.",
+        "type": "verb, noun",
+        "example": "The highlight of the show was the last song.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "highly",
+        "bengali": "অত্যন্ত",
+        "meaning": "To a high degree or level.",
+        "type": "adverb",
+        "example": "He is a highly respected teacher.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "highway",
+        "bengali": "মহাসড়ক",
+        "meaning": "A main road, especially one connecting major towns or cities.",
+        "type": "noun",
+        "example": "There was a lot of traffic on the highway.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "hill",
+        "bengali": "পাহাড়",
+        "meaning": "A naturally raised area of land, not as high or craggy as a mountain.",
+        "type": "noun",
+        "example": "We walked up the hill.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "him",
+        "bengali": "তাকে",
+        "meaning": "Used as the object of a verb or preposition to refer to a male person or animal previously mentioned or easily identified.",
+        "type": "pronoun",
+        "example": "I saw him yesterday.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "himself",
+        "bengali": "নিজেই",
+        "meaning": "Used as the object of a verb or preposition to refer to a male person or animal previously mentioned as the subject of the clause.",
+        "type": "pronoun",
+        "example": "He did it himself.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "hire",
+        "bengali": "ভাড়া করা",
+        "meaning": "Employ (someone) for wages.",
+        "type": "verb, noun",
+        "example": "We need to hire a new assistant.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "his",
+        "bengali": "তার",
+        "meaning": "Belonging to or associated with a male person or animal previously mentioned or easily identified.",
+        "type": "determiner, pronoun",
+        "example": "This is his book.",
+        "difficulty": "A1"
     }
 ];
 
