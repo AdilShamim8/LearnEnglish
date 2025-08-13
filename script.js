@@ -13372,6 +13372,1646 @@ class LearningApp {
         "type": "noun, verb",
         "example": "I have a lot on my mind.",
         "difficulty": "A2"
+    },
+    {
+        "english": "mine (belongs to me)",
+        "bengali": "আমার",
+        "meaning": "Used to refer to a thing or things belonging to or associated with the speaker.",
+        "type": "pronoun",
+        "example": "This book is mine.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "mine (hole in the ground)",
+        "bengali": "খনি",
+        "meaning": "An excavation in the earth for extracting coal or other minerals.",
+        "type": "noun",
+        "example": "He works in a coal mine.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "mineral",
+        "bengali": "খনিজ",
+        "meaning": "A solid, naturally occurring inorganic substance.",
+        "type": "noun",
+        "example": "The region is rich in minerals.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "minimum",
+        "bengali": "ন্যূনতম",
+        "meaning": "The least or smallest amount or quantity possible, attainable, or required.",
+        "type": "adjective, noun",
+        "example": "The minimum age for driving is 18.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "minister",
+        "bengali": "মন্ত্রী",
+        "meaning": "A head of a government department.",
+        "type": "noun",
+        "example": "He is the Minister of Education.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "minor",
+        "bengali": "গৌণ",
+        "meaning": "Lesser in importance, seriousness, or significance.",
+        "type": "adjective",
+        "example": "It's only a minor problem.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "minority",
+        "bengali": "সংখ্যালঘু",
+        "meaning": "The smaller number or part, especially a number or part representing less than half of the whole.",
+        "type": "noun",
+        "example": "Ethnic minorities often face discrimination.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "minute",
+        "bengali": "মিনিট",
+        "meaning": "A period of time equal to sixty seconds or a sixtieth of an hour.",
+        "type": "noun",
+        "example": "I'll be ready in a minute.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mirror",
+        "bengali": "আয়না",
+        "meaning": "A surface, typically of glass coated with a metal amalgam, that reflects a clear image.",
+        "type": "noun",
+        "example": "She looked at herself in the mirror.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "miss",
+        "bengali": "মিস করা",
+        "meaning": "Fail to hit, reach, or come into contact with (something aimed at).",
+        "type": "verb",
+        "example": "I missed the bus.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "missing",
+        "bengali": "অনুপস্থিত",
+        "meaning": "(of a thing) not able to be found because it is not in its expected place.",
+        "type": "adjective",
+        "example": "My keys are missing.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "mission",
+        "bengali": "মিশন",
+        "meaning": "An important assignment carried out for political, religious, or commercial purposes, typically involving travel.",
+        "type": "noun",
+        "example": "He was sent on a secret mission.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "mistake",
+        "bengali": "ভুল",
+        "meaning": "An act or judgment that is misguided or wrong.",
+        "type": "noun, verb",
+        "example": "I made a mistake in my calculations.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mix",
+        "bengali": "মেশানো",
+        "meaning": "Combine or put together to form one substance or mass.",
+        "type": "verb, noun",
+        "example": "Mix the ingredients together.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "mixed",
+        "bengali": "মিশ্রিত",
+        "meaning": "Consisting of different qualities or elements.",
+        "type": "adjective",
+        "example": "I have mixed feelings about the plan.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "mixture",
+        "bengali": "মিশ্রণ",
+        "meaning": "A substance made by mixing other substances together.",
+        "type": "noun",
+        "example": "The cake is made from a mixture of flour, sugar, and eggs.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "model",
+        "bengali": "মডেল",
+        "meaning": "A three-dimensional representation of a person or thing or of a proposed structure, typically on a smaller scale than the original.",
+        "type": "noun, verb",
+        "example": "This is a model of the new building.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "modern",
+        "bengali": "আধুনিক",
+        "meaning": "Relating to the present or recent times as opposed to the remote past.",
+        "type": "adjective",
+        "example": "We live in a modern society.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "modify",
+        "bengali": "পরিবর্তন করা",
+        "meaning": "Make partial or minor changes to (something), typically so as to improve it or to make it less extreme.",
+        "type": "verb",
+        "example": "We need to modify the design.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "mom",
+        "bengali": "মা",
+        "meaning": "One's mother.",
+        "type": "noun",
+        "example": "My mom is the best cook.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "moment",
+        "bengali": "মুহূর্ত",
+        "meaning": "A very brief period of time.",
+        "type": "noun",
+        "example": "Wait a moment, please.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "Monday",
+        "bengali": "সোমবার",
+        "meaning": "The day of the week before Tuesday and following Sunday.",
+        "type": "noun",
+        "example": "I have a meeting on Monday.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "money",
+        "bengali": "টাকা",
+        "meaning": "A current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
+        "type": "noun",
+        "example": "I need some money.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "monitor",
+        "bengali": "মনিটর",
+        "meaning": "A screen which displays an image generated by a computer.",
+        "type": "noun, verb",
+        "example": "The computer monitor is not working.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "monkey",
+        "bengali": "বানর",
+        "meaning": "A small to medium-sized primate that typically has a long tail, most kinds of which live in trees in tropical countries.",
+        "type": "noun",
+        "example": "I saw a monkey at the zoo.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "month",
+        "bengali": "মাস",
+        "meaning": "Each of the twelve named periods into which a year is divided.",
+        "type": "noun",
+        "example": "January is the first month of the year.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mood",
+        "bengali": "মেজাজ",
+        "meaning": "A temporary state of mind or feeling.",
+        "type": "noun",
+        "example": "I am in a good mood today.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "moon",
+        "bengali": "চাঁদ",
+        "meaning": "The natural satellite of the earth, visible (chiefly at night) by reflected light from the sun.",
+        "type": "noun",
+        "example": "The moon is bright tonight.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "moral",
+        "bengali": "নৈতিক",
+        "meaning": "Concerned with the principles of right and wrong behavior and the goodness or badness of human character.",
+        "type": "adjective, noun",
+        "example": "It is a moral issue.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "more",
+        "bengali": "আরও",
+        "meaning": "A greater or additional amount or degree.",
+        "type": "determiner, pronoun, adverb",
+        "example": "I need more time.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "morning",
+        "bengali": "সকাল",
+        "meaning": "The period of time between midnight and noon, especially from sunrise to noon.",
+        "type": "noun",
+        "example": "Good morning!",
+        "difficulty": "A1"
+    },
+    {
+        "english": "most",
+        "bengali": "অধিকাংশ",
+        "meaning": "Greatest in amount or degree.",
+        "type": "determiner, pronoun, adverb",
+        "example": "Most people like ice cream.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mostly",
+        "bengali": "প্রধানত",
+        "meaning": "Mainly.",
+        "type": "adverb",
+        "example": "The audience was mostly young people.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "mother",
+        "bengali": "মা",
+        "meaning": "A woman in relation to her child or children.",
+        "type": "noun",
+        "example": "My mother is a teacher.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "motor",
+        "bengali": "মোটর",
+        "meaning": "A machine, especially one powered by electricity or an internal combustion engine, that supplies motive power for a vehicle or for some other device with moving parts.",
+        "type": "noun, adjective",
+        "example": "The boat has a powerful motor.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "motorcycle",
+        "bengali": "মটরসাইকেল",
+        "meaning": "A two-wheeled vehicle that is powered by a motor and has no pedals.",
+        "type": "noun",
+        "example": "He rides a motorcycle to work.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "mount",
+        "bengali": "আরোহণ করা",
+        "meaning": "Climb up (stairs, a hill, or other rising surface).",
+        "type": "verb",
+        "example": "He mounted his horse and rode away.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "mountain",
+        "bengali": "পর্বত",
+        "meaning": "A large natural elevation of the earth's surface rising abruptly from the surrounding level; a large steep hill.",
+        "type": "noun",
+        "example": "We climbed the mountain.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mouse",
+        "bengali": "ইঁদুর",
+        "meaning": "A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.",
+        "type": "noun",
+        "example": "I saw a mouse in the kitchen.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mouth",
+        "bengali": "মুখ",
+        "meaning": "The opening in the lower part of the human face, surrounded by the lips, through which food is taken in and from which speech and other sounds are emitted.",
+        "type": "noun",
+        "example": "Open your mouth.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "move",
+        "bengali": "চলা",
+        "meaning": "Go in a specified direction or manner; travel.",
+        "type": "verb, noun",
+        "example": "Please move your car.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "movement",
+        "bengali": "আন্দোলন",
+        "meaning": "An act of changing physical location or position or of having this changed.",
+        "type": "noun",
+        "example": "I saw a movement in the bushes.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "movie",
+        "bengali": "চলচ্চিত্র",
+        "meaning": "A story or event recorded by a camera as a set of moving images and shown in a theater or on television; a film.",
+        "type": "noun",
+        "example": "I watched a movie last night.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "much",
+        "bengali": "অনেক",
+        "meaning": "A large amount.",
+        "type": "determiner, pronoun, adverb",
+        "example": "I don't have much money.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "mud",
+        "bengali": "কাদা",
+        "meaning": "Soft, sticky matter resulting from the mixing of earth and water.",
+        "type": "noun",
+        "example": "There was a lot of mud on the road.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "multiple",
+        "bengali": "একাধিক",
+        "meaning": "Having or involving several parts, elements, or members.",
+        "type": "adjective",
+        "example": "He has multiple injuries.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "multiply",
+        "bengali": "গুণ করা",
+        "meaning": "Obtain from (a number) another which contains the first number a specified number of times.",
+        "type": "verb",
+        "example": "If you multiply 2 by 3, you get 6.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "murder",
+        "bengali": "হত্যা",
+        "meaning": "The unlawful premeditated killing of one human being by another.",
+        "type": "noun, verb",
+        "example": "He was convicted of murder.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "muscle",
+        "bengali": "পেশী",
+        "meaning": "A band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.",
+        "type": "noun",
+        "example": "He has strong muscles.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "museum",
+        "bengali": "জাদুঘর",
+        "meaning": "A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+        "type": "noun",
+        "example": "We visited the museum yesterday.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "music",
+        "bengali": "সঙ্গীত",
+        "meaning": "Vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion.",
+        "type": "noun",
+        "example": "I love to listen to music.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "musical",
+        "bengali": "সঙ্গীতধর্মী",
+        "meaning": "Relating to music.",
+        "type": "adjective, noun",
+        "example": "He is a very musical person.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "musician",
+        "bengali": "সঙ্গীতশিল্পী",
+        "meaning": "A person who plays a musical instrument, especially as a profession, or is musically talented.",
+        "type": "noun",
+        "example": "He is a professional musician.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "must",
+        "bengali": "অবশ্যই",
+        "meaning": "Be obliged to; should (expressing necessity).",
+        "type": "modal verb",
+        "example": "I must go now.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "my",
+        "bengali": "আমার",
+        "meaning": "Belonging to or associated with the speaker.",
+        "type": "determiner",
+        "example": "This is my book.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "myself",
+        "bengali": "নিজেই",
+        "meaning": "Used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is the subject of the clause.",
+        "type": "pronoun",
+        "example": "I did it myself.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "mysterious",
+        "bengali": "রহস্যময়",
+        "meaning": "Difficult or impossible to understand, explain, or identify.",
+        "type": "adjective",
+        "example": "It was a mysterious disappearance.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "mystery",
+        "bengali": "রহস্য",
+        "meaning": "Something that is difficult or impossible to understand or explain.",
+        "type": "noun",
+        "example": "The cause of the accident is a mystery.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "nail",
+        "bengali": "পেরেক",
+        "meaning": "A small metal spike with a broadened flat head, driven typically into wood with a hammer to join things together or to serve as a hook.",
+        "type": "noun",
+        "example": "I need a hammer and some nails.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "name",
+        "bengali": "নাম",
+        "meaning": "A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+        "type": "noun, verb",
+        "example": "What is your name?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "narrative",
+        "bengali": "বর্ণনা",
+        "meaning": "A spoken or written account of connected events; a story.",
+        "type": "noun, adjective",
+        "example": "He is writing a narrative of his travels.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "narrow",
+        "bengali": "সংকীর্ণ",
+        "meaning": "Of small width in relation to length.",
+        "type": "adjective, verb",
+        "example": "The road is very narrow.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "nation",
+        "bengali": "জাতি",
+        "meaning": "A large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.",
+        "type": "noun",
+        "example": "Bangladesh is a sovereign nation.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "national",
+        "bengali": "জাতীয়",
+        "meaning": "Relating to a nation; common to or characteristic of a whole nation.",
+        "type": "adjective, noun",
+        "example": "This is a national holiday.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "native",
+        "bengali": "দেশীয়",
+        "meaning": "A person born in a specified place or associated with a place by birth, whether subsequently resident there or not.",
+        "type": "adjective, noun",
+        "example": "He is a native of Dhaka.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "natural",
+        "bengali": "প্রাকৃতিক",
+        "meaning": "Existing in or derived from nature; not made or caused by humankind.",
+        "type": "adjective",
+        "example": "This is a natural disaster.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "naturally",
+        "bengali": "স্বাভাবিকভাবে",
+        "meaning": "In a natural manner.",
+        "type": "adverb",
+        "example": "He is naturally talented.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "nature",
+        "bengali": "প্রকৃতি",
+        "meaning": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
+        "type": "noun",
+        "example": "I love nature.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "near",
+        "bengali": "কাছে",
+        "meaning": "At or to a short distance away; a short time away.",
+        "type": "preposition, adjective, adverb",
+        "example": "My house is near the school.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nearly",
+        "bengali": "প্রায়",
+        "meaning": "Almost.",
+        "type": "adverb",
+        "example": "It's nearly time to go.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "neat",
+        "bengali": "পরিষ্কার",
+        "meaning": "Arranged in an orderly, tidy way.",
+        "type": "adjective",
+        "example": "Your room is very neat.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "necessarily",
+        "bengali": "অগত্যা",
+        "meaning": "As a necessary result; inevitably.",
+        "type": "adverb",
+        "example": "That is not necessarily true.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "necessary",
+        "bengali": "প্রয়োজনীয়",
+        "meaning": "Required to be done, achieved, or present; needed; essential.",
+        "type": "adjective",
+        "example": "Is it necessary to go?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "neck",
+        "bengali": "ঘাড়",
+        "meaning": "The part of a person's or animal's body connecting the head to the rest of the body.",
+        "type": "noun",
+        "example": "I have a pain in my neck.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "need",
+        "bengali": "প্রয়োজন",
+        "meaning": "Require (something) because it is essential or very important.",
+        "type": "verb, noun, modal verb",
+        "example": "I need your help.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "needle",
+        "bengali": "সূঁচ",
+        "meaning": "A small slender tool with a pointed end and a hole or eye in it for thread, used in sewing.",
+        "type": "noun",
+        "example": "I need a needle and thread.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "negative",
+        "bengali": "নেতিবাচক",
+        "meaning": "(of a statement or decision) expressing or containing a denial, refusal, or contradiction.",
+        "type": "adjective, noun",
+        "example": "He has a negative attitude.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "neighbor",
+        "bengali": "প্রতিবেশী",
+        "meaning": "A person living near or next door to the speaker or person referred to.",
+        "type": "noun",
+        "example": "My neighbor is very friendly.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "neighborhood",
+        "bengali": "পাড়া",
+        "meaning": "A district, especially one forming a community within a town or city.",
+        "type": "noun",
+        "example": "I live in a quiet neighborhood.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "neither",
+        "bengali": "কোনোটিই না",
+        "meaning": "Not the one nor the other of two people or things.",
+        "type": "determiner, pronoun, adverb",
+        "example": "Neither of them came.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "nerve",
+        "bengali": "স্নায়ু",
+        "meaning": "A whitish fiber or bundle of fibers that transmits impulses of sensation to the brain or spinal cord, and impulses from these to the muscles and organs.",
+        "type": "noun",
+        "example": "He has a lot of nerve.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "nervous",
+        "bengali": "নার্ভাস",
+        "meaning": "Easily agitated or alarmed; tending to be anxious; highly strung.",
+        "type": "adjective",
+        "example": "I am nervous about the exam.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "net",
+        "bengali": "জাল",
+        "meaning": "A piece of open-meshed material made of twine, cord, or something similar, used for catching fish, surrounding or protecting things, or for other purposes.",
+        "type": "noun",
+        "example": "The fisherman cast his net into the sea.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "network",
+        "bengali": "নেটওয়ার্ক",
+        "meaning": "A group or system of interconnected people or things.",
+        "type": "noun",
+        "example": "I have a large network of friends.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "never",
+        "bengali": "কখনো না",
+        "meaning": "At no time in the past or future; on no occasion; not ever.",
+        "type": "adverb",
+        "example": "I have never been to London.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nevertheless",
+        "bengali": "তথাপি",
+        "meaning": "In spite of that; notwithstanding; all the same.",
+        "type": "adverb",
+        "example": "He was very tired, but nevertheless he continued to work.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "new",
+        "bengali": "নতুন",
+        "meaning": "Produced, introduced, or discovered recently or now for the first time; not existing before.",
+        "type": "adjective",
+        "example": "I have a new car.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "news",
+        "bengali": "খবর",
+        "meaning": "Newly received or noteworthy information, especially about recent or important events.",
+        "type": "noun",
+        "example": "I have some good news for you.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "newspaper",
+        "bengali": "সংবাদপত্র",
+        "meaning": "A printed publication (usually issued daily or weekly) consisting of folded unstapled sheets and containing news, feature articles, advertisements, and correspondence.",
+        "type": "noun",
+        "example": "I read the newspaper every day.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "next",
+        "bengali": "পরবর্তী",
+        "meaning": "Coming immediately after the present one in time or order.",
+        "type": "adjective, adverb, noun",
+        "example": "Who is next?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "next to",
+        "bengali": "পাশে",
+        "meaning": "In or into a position immediately to one side of; beside.",
+        "type": "preposition",
+        "example": "The bank is next to the post office.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nice",
+        "bengali": "সুন্দর",
+        "meaning": "Pleasant; agreeable; satisfactory.",
+        "type": "adjective",
+        "example": "Have a nice day!",
+        "difficulty": "A1"
+    },
+    {
+        "english": "night",
+        "bengali": "রাত",
+        "meaning": "The period of darkness in each twenty-four hours; the time from sunset to sunrise.",
+        "type": "noun",
+        "example": "I will see you tomorrow night.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nightmare",
+        "bengali": "দুঃস্বপ্ন",
+        "meaning": "A frightening or unpleasant dream.",
+        "type": "noun",
+        "example": "I had a nightmare last night.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "nine",
+        "bengali": "নয়",
+        "meaning": "Equivalent to the product of three and three; one more than eight; 9.",
+        "type": "number",
+        "example": "I have nine books.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nineteen",
+        "bengali": "উনিশ",
+        "meaning": "Equivalent to the sum of ten and nine; one more than eighteen; 19.",
+        "type": "number",
+        "example": "She is nineteen years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "ninety",
+        "bengali": "নব্বই",
+        "meaning": "The number equivalent to the product of nine and ten; 90.",
+        "type": "number",
+        "example": "My grandfather is ninety years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "no",
+        "bengali": "না",
+        "meaning": "Used to give a negative response.",
+        "type": "exclamation, determiner",
+        "example": "No, I am not hungry.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "no one",
+        "bengali": "কেউ না",
+        "meaning": "No person; not a single person.",
+        "type": "pronoun",
+        "example": "No one was at home.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nobody",
+        "bengali": "কেউ না",
+        "meaning": "No person; no one.",
+        "type": "pronoun",
+        "example": "Nobody knows the answer.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "noise",
+        "bengali": "গোলমাল",
+        "meaning": "A sound, especially one that is loud or unpleasant or that causes disturbance.",
+        "type": "noun",
+        "example": "Please don't make so much noise.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "noisy",
+        "bengali": "কোলাহলপূর্ণ",
+        "meaning": "Making or given to making a lot of noise.",
+        "type": "adjective",
+        "example": "The children are very noisy.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "none",
+        "bengali": "কিছুই না",
+        "meaning": "Not any.",
+        "type": "pronoun",
+        "example": "None of the students passed the exam.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "nor",
+        "bengali": "না",
+        "meaning": "Used before the second or further of two or more alternatives (the first being introduced by a negative such as ‘neither’ or ‘not’) to indicate that they are each untrue or each do not happen.",
+        "type": "conjunction, adverb",
+        "example": "He is neither rich nor famous.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "normal",
+        "bengali": "স্বাভাবিক",
+        "meaning": "Conforming to a standard; usual, typical, or expected.",
+        "type": "adjective, noun",
+        "example": "It's normal to feel nervous before an exam.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "normally",
+        "bengali": "সাধারণত",
+        "meaning": "Under normal or usual conditions; as a rule.",
+        "type": "adverb",
+        "example": "I normally go to bed at 10 pm.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "north",
+        "bengali": "উত্তর",
+        "meaning": "The direction in which a compass needle normally points, toward the horizon on the left-hand side of a person facing east, or the part of the horizon lying in this direction.",
+        "type": "noun, adjective, adverb",
+        "example": "The birds are flying north for the winter.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "northern",
+        "bengali": "উত্তরাঞ্চলীয়",
+        "meaning": "Situated in, directed toward, or facing the north.",
+        "type": "adjective",
+        "example": "He lives in the northern part of the country.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "nose",
+        "bengali": "নাক",
+        "meaning": "The part projecting above the mouth on the face of a person or animal, containing the nostrils and used for breathing and smelling.",
+        "type": "noun",
+        "example": "I have a runny nose.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "not",
+        "bengali": "না",
+        "meaning": "Used with an auxiliary verb or ‘be’ to form the negative.",
+        "type": "adverb",
+        "example": "I am not hungry.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "note",
+        "bengali": "নোট",
+        "meaning": "A brief record of facts, topics, or thoughts, written down as an aid to memory.",
+        "type": "noun, verb",
+        "example": "Please take a note of this.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nothing",
+        "bengali": "কিছুই না",
+        "meaning": "Not anything; no single thing.",
+        "type": "pronoun",
+        "example": "There is nothing in the box.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "notice",
+        "bengali": "লক্ষ্য করা",
+        "meaning": "Become aware of.",
+        "type": "verb, noun",
+        "example": "Did you notice that he was not there?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "notion",
+        "bengali": "ধারণা",
+        "meaning": "A conception of or belief about something.",
+        "type": "noun",
+        "example": "I have no notion of what you mean.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "novel",
+        "bengali": "উপন্যাস",
+        "meaning": "A fictitious prose narrative of book length, typically representing character and action with some degree of realism.",
+        "type": "noun",
+        "example": "She has written a new novel.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "November",
+        "bengali": "নভেম্বর",
+        "meaning": "The eleventh month of the year, in the northern hemisphere usually considered the last month of autumn.",
+        "type": "noun",
+        "example": "My birthday is in November.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "now",
+        "bengali": "এখন",
+        "meaning": "At the present time or moment.",
+        "type": "adverb, conjunction",
+        "example": "I am busy now.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nowhere",
+        "bengali": "কোথাও না",
+        "meaning": "Not in or to any place.",
+        "type": "adverb",
+        "example": "There is nowhere to go.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "nuclear",
+        "bengali": "পারমাণবিক",
+        "meaning": "Relating to the nucleus of an atom.",
+        "type": "adjective",
+        "example": "Nuclear energy is a powerful source of energy.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "number",
+        "bengali": "সংখ্যা",
+        "meaning": "An arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing order in a series or for identification.",
+        "type": "noun, verb",
+        "example": "What is your phone number?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "numerous",
+        "bengali": "অসংখ্য",
+        "meaning": "Great in number; many.",
+        "type": "adjective",
+        "example": "There are numerous reasons for my decision.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "nurse",
+        "bengali": "নার্স",
+        "meaning": "A person trained to care for the sick or infirm, especially in a hospital.",
+        "type": "noun",
+        "example": "She is a nurse.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "nut",
+        "bengali": "বাদাম",
+        "meaning": "A fruit consisting of a hard or tough shell around an edible kernel.",
+        "type": "noun",
+        "example": "I like to eat nuts.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "obey",
+        "bengali": "মান্য করা",
+        "meaning": "Submit to the authority of (someone) or comply with (a law).",
+        "type": "verb",
+        "example": "You must obey the rules.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "object",
+        "bengali": "বস্তু",
+        "meaning": "A material thing that can be seen and touched.",
+        "type": "noun, verb",
+        "example": "What is that object on the table?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "objective",
+        "bengali": "উদ্দেশ্য",
+        "meaning": "A thing aimed at or sought; a goal.",
+        "type": "noun, adjective",
+        "example": "Our main objective is to increase sales.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "obligation",
+        "bengali": "বাধ্যবাধকতা",
+        "meaning": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+        "type": "noun",
+        "example": "I have an obligation to help my family.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "observation",
+        "bengali": "পর্যবেক্ষণ",
+        "meaning": "The action or process of observing something or someone carefully or in order to gain information.",
+        "type": "noun",
+        "example": "She is under observation at the hospital.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "observe",
+        "bengali": "পর্যবেক্ষণ করা",
+        "meaning": "Notice or perceive (something) and register it as being significant.",
+        "type": "verb",
+        "example": "The scientists are observing the behavior of the animals.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "obtain",
+        "bengali": "অর্জন করা",
+        "meaning": "Get, acquire, or secure (something).",
+        "type": "verb",
+        "example": "I need to obtain a visa to travel to that country.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "obvious",
+        "bengali": "সুস্পষ্ট",
+        "meaning": "Easily perceived or understood; clear, self-evident, or apparent.",
+        "type": "adjective",
+        "example": "The answer is obvious.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "obviously",
+        "bengali": "স্পষ্টতই",
+        "meaning": "In a way that is easily perceived or understood; clearly.",
+        "type": "adverb",
+        "example": "Obviously, he is not happy.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "occasion",
+        "bengali": "উপলক্ষ",
+        "meaning": "A particular time or instance of an event.",
+        "type": "noun",
+        "example": "This is a special occasion.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "occasionally",
+        "bengali": "মাঝে মাঝে",
+        "meaning": "At infrequent or irregular intervals; now and then.",
+        "type": "adverb",
+        "example": "I occasionally go to the cinema.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "occur",
+        "bengali": "ঘটা",
+        "meaning": "Happen; take place.",
+        "type": "verb",
+        "example": "The accident occurred at 10 am.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "ocean",
+        "bengali": "মহাসাগর",
+        "meaning": "A very large expanse of sea, in particular each of the main areas into which the sea is divided geographically.",
+        "type": "noun",
+        "example": "The Pacific Ocean is the largest ocean in the world.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "o'clock",
+        "bengali": "টা",
+        "meaning": "Used after a number from one to twelve to say what time it is.",
+        "type": "adverb",
+        "example": "It's three o'clock.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "October",
+        "bengali": "অক্টোবর",
+        "meaning": "The tenth month of the year, in the northern hemisphere the second month of autumn.",
+        "type": "noun",
+        "example": "My birthday is in October.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "odd",
+        "bengali": "অদ্ভুত",
+        "meaning": "Different to what is usual or expected; strange.",
+        "type": "adjective",
+        "example": "That's an odd thing to say.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "of",
+        "bengali": "এর",
+        "meaning": "Expressing the relationship between a part and a whole.",
+        "type": "preposition",
+        "example": "A piece of cake.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "off",
+        "bengali": "বন্ধ",
+        "meaning": "Away from the place in question; to or at a distance.",
+        "type": "adverb, preposition",
+        "example": "Please turn off the light.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "offend",
+        "bengali": "আহত করা",
+        "meaning": "Cause to feel upset, annoyed, or resentful.",
+        "type": "verb",
+        "example": "I'm sorry if I offended you.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "offense",
+        "bengali": "অপরাধ",
+        "meaning": "A breach of a law or rule; an illegal act.",
+        "type": "noun",
+        "example": "He was arrested for a minor offense.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "offensive",
+        "bengali": "আক্রমণাত্মক",
+        "meaning": "Causing someone to feel deeply hurt, upset, or angry.",
+        "type": "adjective",
+        "example": "His comments were very offensive.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "offer",
+        "bengali": "প্রস্তাব",
+        "meaning": "Present or proffer (something) for (someone) to accept or reject as so desired.",
+        "type": "verb, noun",
+        "example": "He offered me a job.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "office",
+        "bengali": "অফিস",
+        "meaning": "A room, set of rooms, or building used as a place for commercial, professional, or bureaucratic work.",
+        "type": "noun",
+        "example": "I work in an office.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "officer",
+        "bengali": "কর্মকর্তা",
+        "meaning": "A person holding a position of command or authority in the armed services, in the merchant marine, or on a passenger ship.",
+        "type": "noun",
+        "example": "He is a police officer.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "official",
+        "bengali": "সরকারি",
+        "meaning": "Relating to an authority or public body and its duties, actions, and responsibilities.",
+        "type": "adjective, noun",
+        "example": "This is an official document.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "often",
+        "bengali": "প্রায়ই",
+        "meaning": "Frequently; many times.",
+        "type": "adverb",
+        "example": "I often go to the cinema.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "oh",
+        "bengali": "ওহ",
+        "meaning": "Used to express a range of emotions including surprise, pain, or sympathy.",
+        "type": "exclamation",
+        "example": "Oh, I see.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "oil",
+        "bengali": "তেল",
+        "meaning": "A viscous liquid derived from petroleum, especially for use as a fuel or lubricant.",
+        "type": "noun",
+        "example": "We need some oil for cooking.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "OK",
+        "bengali": "ঠিক আছে",
+        "meaning": "Used to express assent, agreement, or acceptance.",
+        "type": "exclamation, adjective, adverb",
+        "example": "OK, I'll do it.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "old",
+        "bengali": "পুরানো",
+        "meaning": "Having lived for a long time; no longer young.",
+        "type": "adjective",
+        "example": "He is an old man.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "old-fashioned",
+        "bengali": "পুরানো ধাঁচের",
+        "meaning": "In or according to styles or types no longer current or fashionable.",
+        "type": "adjective",
+        "example": "He has very old-fashioned ideas.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "on",
+        "bengali": "উপরে",
+        "meaning": "Physically in contact with and supported by (a surface).",
+        "type": "preposition, adverb",
+        "example": "The book is on the table.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "once",
+        "bengali": "একদা",
+        "meaning": "On one occasion or for one time only.",
+        "type": "adverb, conjunction",
+        "example": "I have been to London once.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "one",
+        "bengali": "এক",
+        "meaning": "The lowest cardinal number; half of two; 1.",
+        "type": "number, determiner, pronoun",
+        "example": "I have one brother.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "onion",
+        "bengali": "পেঁয়াজ",
+        "meaning": "A swollen edible bulb used as a vegetable, having a pungent taste and smell and composed of several concentric layers.",
+        "type": "noun",
+        "example": "I need to buy some onions.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "online",
+        "bengali": "অনলাইন",
+        "meaning": "Controlled by or connected to another computer or to a network.",
+        "type": "adjective, adverb",
+        "example": "I do my shopping online.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "only",
+        "bengali": "শুধু",
+        "meaning": "And no one or nothing more besides; solely or exclusively.",
+        "type": "adjective, adverb",
+        "example": "I only have one brother.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "onto",
+        "bengali": "উপর",
+        "meaning": "Moving to a position on the surface of.",
+        "type": "preposition",
+        "example": "The cat jumped onto the table.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "open",
+        "bengali": "খোলা",
+        "meaning": "Allowing access, passage, or a view through an empty space; not closed or blocked up.",
+        "type": "adjective, verb",
+        "example": "Please open the door.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "opening",
+        "bengali": "খোলা",
+        "meaning": "An unfilled space; a gap.",
+        "type": "noun",
+        "example": "There is an opening in the fence.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "operate",
+        "bengali": "চালানো",
+        "meaning": "(of a person) control the functioning of (a machine, process, or system).",
+        "type": "verb",
+        "example": "He knows how to operate this machine.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "operation",
+        "bengali": "অপারেশন",
+        "meaning": "The action of functioning or the fact of being active or in effect.",
+        "type": "noun",
+        "example": "The operation was a success.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "opinion",
+        "bengali": "মতামত",
+        "meaning": "A view or judgment formed about something, not necessarily based on fact or knowledge.",
+        "type": "noun",
+        "example": "What is your opinion about this?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "opponent",
+        "bengali": "প্রতিপক্ষ",
+        "meaning": "Someone who competes against or fights another in a contest, game, or argument; a rival or adversary.",
+        "type": "noun",
+        "example": "He is a strong opponent.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "opportunity",
+        "bengali": "সুযোগ",
+        "meaning": "A set of circumstances that makes it possible to do something.",
+        "type": "noun",
+        "example": "This is a great opportunity for you.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "oppose",
+        "bengali": "বিরোধিতা করা",
+        "meaning": "Actively resist or refuse to comply with (a person or a system).",
+        "type": "verb",
+        "example": "He opposed the new law.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "opposed",
+        "bengali": "বিরোধী",
+        "meaning": "Eager to prevent or put an end to; disapproving of or disagreeing with.",
+        "type": "adjective",
+        "example": "I am opposed to this plan.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "opposite",
+        "bengali": "বিপরীত",
+        "meaning": "Situated on the other or further side when seen from a particular point of view; facing.",
+        "type": "adjective, adverb, preposition, noun",
+        "example": "The bank is on the opposite side of the street.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "opposition",
+        "bengali": "বিরোধিতা",
+        "meaning": "Resistance or dissent, expressed in action or argument.",
+        "type": "noun",
+        "example": "There was a lot of opposition to the new law.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "option",
+        "bengali": "বিকল্প",
+        "meaning": "A thing that is or may be chosen.",
+        "type": "noun",
+        "example": "You have two options.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "or",
+        "bengali": "বা",
+        "meaning": "Used to link alternatives.",
+        "type": "conjunction",
+        "example": "Would you like tea or coffee?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "orange",
+        "bengali": "কমলা",
+        "meaning": "A large round juicy citrus fruit with a tough bright reddish-yellow rind.",
+        "type": "noun, adjective",
+        "example": "I would like an orange.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "order",
+        "bengali": "আদেশ",
+        "meaning": "An authoritative command, direction, or instruction.",
+        "type": "noun, verb",
+        "example": "The soldier obeyed the order.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "ordinary",
+        "bengali": "সাধারণ",
+        "meaning": "With no special or distinctive features; normal.",
+        "type": "adjective",
+        "example": "It was just an ordinary day.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "organ",
+        "bengali": "অঙ্গ",
+        "meaning": "A part of an organism that is typically self-contained and has a specific vital function, such as the heart or liver in humans.",
+        "type": "noun",
+        "example": "The heart is a vital organ.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "organization",
+        "bengali": "সংগঠন",
+        "meaning": "An organized body of people with a particular purpose, especially a business, society, association, etc.",
+        "type": "noun",
+        "example": "He works for a large organization.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "organize",
+        "bengali": "সংগঠিত করা",
+        "meaning": "Arrange into a structured whole; order.",
+        "type": "verb",
+        "example": "We need to organize a meeting.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "organized",
+        "bengali": "সংগঠিত",
+        "meaning": "Arranged or structured in a systematic way.",
+        "type": "adjective",
+        "example": "She is a very organized person.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "organizer",
+        "bengali": "সংগঠক",
+        "meaning": "A person who arranges an event or activity.",
+        "type": "noun",
+        "example": "He is the organizer of the conference.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "origin",
+        "bengali": "উৎস",
+        "meaning": "The point or place where something begins, arises, or is derived.",
+        "type": "noun",
+        "example": "What is the origin of this word?",
+        "difficulty": "B2"
+    },
+    {
+        "english": "original",
+        "bengali": "আসল",
+        "meaning": "Present or existing from the beginning; first or earliest.",
+        "type": "adjective, noun",
+        "example": "This is the original painting.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "originally",
+        "bengali": "মূলত",
+        "meaning": "From or in the beginning; at first.",
+        "type": "adverb",
+        "example": "The house was originally a school.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "other",
+        "bengali": "অন্য",
+        "meaning": "Used to refer to a person or thing that is different or distinct from one already mentioned or known about.",
+        "type": "adjective, pronoun",
+        "example": "I have another brother.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "otherwise",
+        "bengali": "অন্যথায়",
+        "meaning": "In circumstances different from those present or considered; or else.",
+        "type": "adverb",
+        "example": "You must study hard, otherwise you will fail.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "ought",
+        "bengali": "উচিত",
+        "meaning": "Used to indicate duty or correctness, typically when criticizing someone's actions.",
+        "type": "modal verb",
+        "example": "You ought to be more careful.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "our",
+        "bengali": "আমাদের",
+        "meaning": "Belonging to or associated with the speaker and one or more other people considered together.",
+        "type": "determiner",
+        "example": "This is our house.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "ours",
+        "bengali": "আমাদের",
+        "meaning": "Used to refer to a thing or things belonging to or associated with the speaker and one or more other people previously mentioned.",
+        "type": "pronoun",
+        "example": "This house is ours.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "ourselves",
+        "bengali": "আমরা নিজেরাই",
+        "meaning": "Used by a speaker to refer to himself or herself and one or more other people as the object of a verb or preposition when he or she and the other people are the subject of the clause.",
+        "type": "pronoun",
+        "example": "We did it ourselves.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "out",
+        "bengali": "বাইরে",
+        "meaning": "Moving or appearing to move away from a particular place, especially one that is enclosed or hidden.",
+        "type": "adverb, preposition",
+        "example": "The cat is out of the house.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "outcome",
+        "bengali": "ফলাফল",
+        "meaning": "The way a thing turns out; a consequence.",
+        "type": "noun",
+        "example": "What was the outcome of the meeting?",
+        "difficulty": "B2"
+    },
+    {
+        "english": "outdoor",
+        "bengali": "বহিরাঙ্গন",
+        "meaning": "Situated, existing, or intended for use in the open air.",
+        "type": "adjective",
+        "example": "This is an outdoor swimming pool.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "outdoors",
+        "bengali": "বাইরে",
+        "meaning": "In or into the open air.",
+        "type": "adverb",
+        "example": "Let's eat outdoors.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "outer",
+        "bengali": "বাইরের",
+        "meaning": "Outside; external.",
+        "type": "adjective",
+        "example": "The outer layer of the skin.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "outline",
+        "bengali": "রূপরেখা",
+        "meaning": "A line or set of lines enclosing or indicating the shape of an object in a sketch or diagram.",
+        "type": "noun, verb",
+        "example": "Please give me an outline of your plan.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "outside",
+        "bengali": "বাইরে",
+        "meaning": "The external side or surface of something.",
+        "type": "adverb, preposition, noun, adjective",
+        "example": "The cat is outside the house.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "oven",
+        "bengali": "চুল্লি",
+        "meaning": "An enclosed compartment, as in a kitchen range, for cooking and heating food.",
+        "type": "noun",
+        "example": "The cake is in the oven.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "over",
+        "bengali": "উপর",
+        "meaning": "Extending directly upward from.",
+        "type": "preposition, adverb",
+        "example": "The plane is flying over the clouds.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "overall",
+        "bengali": "সামগ্রিকভাবে",
+        "meaning": "Taking everything into account.",
+        "type": "adjective, adverb",
+        "example": "Overall, the project was a success.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "overseas",
+        "bengali": "বিদেশ",
+        "meaning": "In or to a foreign country, especially one across the sea.",
+        "type": "adverb, adjective",
+        "example": "He works overseas.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "owe",
+        "bengali": "ঋণী থাকা",
+        "meaning": "Have an obligation to pay or repay (something, especially money) in return for something received.",
+        "type": "verb",
+        "example": "I owe you a lot of money.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "own",
+        "bengali": "নিজের",
+        "meaning": "Used with a possessive to emphasize that someone or something belongs or relates to the person or thing mentioned.",
+        "type": "adjective, pronoun, verb",
+        "example": "This is my own car.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "owner",
+        "bengali": "মালিক",
+        "meaning": "A person who owns something.",
+        "type": "noun",
+        "example": "Who is the owner of this house?",
+        "difficulty": "A2"
     }
 ];
 
