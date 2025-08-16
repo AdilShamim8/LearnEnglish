@@ -23100,6 +23100,646 @@ class LearningApp {
         "type": "exclamation, verb, adjective, noun",
         "example": "Welcome to my house.",
         "difficulty": "A1"
+    },
+    {
+        "english": "well",
+        "bengali": "ভাল",
+        "meaning": "In a good or satisfactory way.",
+        "type": "exclamation, adverb, adjective, noun",
+        "example": "He did the job well.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "west",
+        "bengali": "পশ্চিম",
+        "meaning": "The direction toward the point of the horizon where the sun sets at the equinoxes, on the left-hand side of a person facing north, or the part of the horizon lying in this direction.",
+        "type": "noun, adjective, adverb",
+        "example": "The sun sets in the west.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "western",
+        "bengali": "পশ্চিমা",
+        "meaning": "Situated in, directed toward, or facing the west.",
+        "type": "adjective",
+        "example": "He lives in the western part of the country.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "wet",
+        "bengali": "ভেজা",
+        "meaning": "Covered or saturated with water or another liquid.",
+        "type": "adjective",
+        "example": "My clothes are wet.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "what",
+        "bengali": "কি",
+        "meaning": "Asking for information specifying something.",
+        "type": "determiner, pronoun, adverb",
+        "example": "What is your name?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "whatever",
+        "bengali": "যা কিছু",
+        "meaning": "It is not important what is; it makes no difference what (used to emphasize a lack of restriction in referring to any thing or amount, in a particular situation).",
+        "type": "determiner, pronoun",
+        "example": "Do whatever you want.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "wheel",
+        "bengali": "চাকা",
+        "meaning": "A circular object that revolves on an axle and is fixed below a vehicle or other object to enable it to move easily over the ground.",
+        "type": "noun",
+        "example": "The car has four wheels.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "when",
+        "bengali": "কখন",
+        "meaning": "At what time.",
+        "type": "adverb, conjunction",
+        "example": "When will you come?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "whenever",
+        "bengali": "যখনই",
+        "meaning": "At whatever time; on whatever occasion (emphasizing a lack of restriction).",
+        "type": "conjunction",
+        "example": "Come whenever you like.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "where",
+        "bengali": "কোথায়",
+        "meaning": "In or to what place or position.",
+        "type": "adverb, conjunction",
+        "example": "Where are you going?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "whereas",
+        "bengali": "যেখানে",
+        "meaning": "In contrast or comparison with the fact that.",
+        "type": "conjunction",
+        "example": "He is rich, whereas his brother is poor.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "wherever",
+        "bengali": "যেখানেই",
+        "meaning": "In or to whatever place (emphasizing a lack of restriction).",
+        "type": "conjunction",
+        "example": "Sit wherever you like.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "whether",
+        "bengali": "কিনা",
+        "meaning": "Expressing a doubt or choice between alternatives.",
+        "type": "conjunction",
+        "example": "I don't know whether he will come.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "which",
+        "bengali": "কোনটি",
+        "meaning": "Asking for information specifying one or more people or things from a definite set.",
+        "type": "pronoun, determiner",
+        "example": "Which book do you want?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "while",
+        "bengali": "যখন",
+        "meaning": "During the time that; at the same time as.",
+        "type": "conjunction, noun",
+        "example": "I read a book while I was waiting.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "white",
+        "bengali": "সাদা",
+        "meaning": "Of the color of milk or fresh snow, due to the reflection of all visible rays of light; the opposite of black.",
+        "type": "adjective, noun",
+        "example": "She is wearing a white dress.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "who",
+        "bengali": "কে",
+        "meaning": "What or which person or people.",
+        "type": "pronoun",
+        "example": "Who is that man?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "whole",
+        "bengali": "পুরো",
+        "meaning": "All of; entire.",
+        "type": "adjective, noun",
+        "example": "I ate the whole cake.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "whom",
+        "bengali": "কাকে",
+        "meaning": "Used instead of ‘who’ as the object of a verb or preposition.",
+        "type": "pronoun",
+        "example": "To whom did you give the book?",
+        "difficulty": "B2"
+    },
+    {
+        "english": "whose",
+        "bengali": "যার",
+        "meaning": "Belonging to or associated with which person.",
+        "type": "determiner, pronoun",
+        "example": "Whose book is this?",
+        "difficulty": "A2"
+    },
+    {
+        "english": "why",
+        "bengali": "কেন",
+        "meaning": "For what reason or purpose.",
+        "type": "adverb",
+        "example": "Why are you late?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wide",
+        "bengali": "প্রশস্ত",
+        "meaning": "Of great or more than average width.",
+        "type": "adjective",
+        "example": "The river is very wide.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "widely",
+        "bengali": "ব্যাপকভাবে",
+        "meaning": "Over a wide area or among a large number of people.",
+        "type": "adverb",
+        "example": "The book is widely read.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "wife",
+        "bengali": "স্ত্রী",
+        "meaning": "A married woman considered in relation to her spouse.",
+        "type": "noun",
+        "example": "He loves his wife very much.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wild",
+        "bengali": "বন্য",
+        "meaning": "(of an animal or plant) living or growing in the natural environment; not domesticated or cultivated.",
+        "type": "adjective",
+        "example": "The lion is a wild animal.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "wildlife",
+        "bengali": "বন্যপ্রাণী",
+        "meaning": "Wild animals collectively; the native fauna (and sometimes flora) of a region.",
+        "type": "noun",
+        "example": "We need to protect our wildlife.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "will",
+        "bengali": "করব",
+        "meaning": "Expressing the future tense.",
+        "type": "modal verb, noun",
+        "example": "I will go there tomorrow.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "willing",
+        "bengali": "ইচ্ছুক",
+        "meaning": "Ready, eager, or prepared to do something.",
+        "type": "adjective",
+        "example": "I am willing to help you.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "win",
+        "bengali": "জেতা",
+        "meaning": "Be successful or victorious in (a contest or conflict).",
+        "type": "verb",
+        "example": "I want to win this game.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wind",
+        "bengali": "বাতাস",
+        "meaning": "The perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction.",
+        "type": "noun",
+        "example": "The wind is blowing.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "window",
+        "bengali": "জানালা",
+        "meaning": "An opening in the wall or roof of a building or vehicle, fitted with glass or other transparent material in a frame to admit light or air and allow people to see out.",
+        "type": "noun",
+        "example": "Please open the window.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wine",
+        "bengali": "ওয়াইন",
+        "meaning": "An alcoholic drink made from fermented grape juice.",
+        "type": "noun",
+        "example": "I would like a glass of wine.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wing",
+        "bengali": "ডানা",
+        "meaning": "A modified forelimb of a bird, bat, or insect, used for flying.",
+        "type": "noun",
+        "example": "The bird has a broken wing.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "winner",
+        "bengali": "বিজয়ী",
+        "meaning": "A person or thing that wins something.",
+        "type": "noun",
+        "example": "He is the winner of the competition.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "winter",
+        "bengali": "শীতকাল",
+        "meaning": "The coldest season of the year, in the northern hemisphere from December to February and in the southern hemisphere from June to August.",
+        "type": "noun",
+        "example": "I love winter.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wire",
+        "bengali": "তার",
+        "meaning": "Metal drawn out into the form of a thin flexible thread or rod.",
+        "type": "noun",
+        "example": "The telephone wire is broken.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "wise",
+        "bengali": "জ্ঞানী",
+        "meaning": "Having or showing experience, knowledge, and good judgment.",
+        "type": "adjective",
+        "example": "He is a wise man.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "wish",
+        "bengali": "ইচ্ছা",
+        "meaning": "Feel or express a strong desire or hope for something that is not easily attainable; want something that cannot or probably will not happen.",
+        "type": "verb, noun",
+        "example": "I wish I could fly.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "with",
+        "bengali": "সাথে",
+        "meaning": "Accompanied by (another person or thing).",
+        "type": "preposition",
+        "example": "I am with my friends.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "within",
+        "bengali": "ভিতরে",
+        "meaning": "Inside (something).",
+        "type": "preposition",
+        "example": "The house is within the city limits.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "without",
+        "bengali": "ছাড়া",
+        "meaning": "In the absence of.",
+        "type": "preposition",
+        "example": "I can't live without you.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "witness",
+        "bengali": "সাক্ষী",
+        "meaning": "A person who sees an event, typically a crime or accident, take place.",
+        "type": "noun",
+        "example": "He was a witness to the accident.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "woman",
+        "bengali": "মহিলা",
+        "meaning": "An adult human female.",
+        "type": "noun",
+        "example": "She is a beautiful woman.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wonder",
+        "bengali": "আশ্চর্য",
+        "meaning": "A feeling of surprise mingled with admiration, caused by something beautiful, unexpected, unfamiliar, or inexplicable.",
+        "type": "noun, verb",
+        "example": "I wonder what he is doing.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "wonderful",
+        "bengali": "চমৎকার",
+        "meaning": "Inspiring delight, pleasure, or admiration; extremely good; marvelous.",
+        "type": "adjective",
+        "example": "We had a wonderful time.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wood",
+        "bengali": "কাঠ",
+        "meaning": "The hard fibrous material forming the main substance of the trunk or branches of a tree or shrub, used for fuel or timber.",
+        "type": "noun",
+        "example": "The table is made of wood.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wooden",
+        "bengali": "কাঠের",
+        "meaning": "Made of wood.",
+        "type": "adjective",
+        "example": "This is a wooden chair.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "word",
+        "bengali": "শব্দ",
+        "meaning": "A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.",
+        "type": "noun",
+        "example": "What does this word mean?",
+        "difficulty": "A1"
+    },
+    {
+        "english": "work",
+        "bengali": "কাজ",
+        "meaning": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+        "type": "noun, verb",
+        "example": "I have a lot of work to do.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "worker",
+        "bengali": "কর্মী",
+        "meaning": "A person who does a specified type of work or who works in a specified way.",
+        "type": "noun",
+        "example": "He is a hard worker.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "working",
+        "bengali": "কাজ করা",
+        "meaning": "Having a job.",
+        "type": "adjective",
+        "example": "She is a working mother.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "world",
+        "bengali": "বিশ্ব",
+        "meaning": "The earth, together with all of its countries, peoples, and natural features.",
+        "type": "noun",
+        "example": "The world is a beautiful place.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "worldwide",
+        "bengali": "বিশ্বব্যাপী",
+        "meaning": "Extending or reaching throughout the world.",
+        "type": "adjective, adverb",
+        "example": "This is a worldwide problem.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "worried",
+        "bengali": "উদ্বিগ্ন",
+        "meaning": "Feeling, showing, or expressing anxiety or concern.",
+        "type": "adjective",
+        "example": "I am worried about you.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "worry",
+        "bengali": "চিন্তা করা",
+        "meaning": "Feel or cause to feel anxious or troubled about actual or potential problems.",
+        "type": "verb, noun",
+        "example": "Don't worry about me.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "worse",
+        "bengali": "আরও খারাপ",
+        "meaning": "Of poorer quality or lower standard; less good or desirable.",
+        "type": "adjective, adverb, noun",
+        "example": "The situation is getting worse.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "worst",
+        "bengali": "সবচেয়ে খারাপ",
+        "meaning": "Of the poorest quality or lowest standard; least good or desirable.",
+        "type": "adjective, adverb, noun",
+        "example": "This is the worst day of my life.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "worth",
+        "bengali": "মূল্য",
+        "meaning": "The level at which someone or something deserves to be valued or rated.",
+        "type": "adjective, noun",
+        "example": "This book is worth reading.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "would",
+        "bengali": "করতাম",
+        "meaning": "Past of will, in various senses.",
+        "type": "modal verb",
+        "example": "I would like a cup of tea.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "wound",
+        "bengali": "ক্ষত",
+        "meaning": "An injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.",
+        "type": "noun, verb",
+        "example": "He has a deep wound in his leg.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "wrap",
+        "bengali": "মোড়ানো",
+        "meaning": "Cover (someone or something) in paper or soft material.",
+        "type": "verb",
+        "example": "Please wrap the gift.",
+        "difficulty": "B2"
+    },
+    {
+        "english": "write",
+        "bengali": "লেখা",
+        "meaning": "Mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement.",
+        "type": "verb",
+        "example": "I am writing a letter.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "writer",
+        "bengali": "লেখক",
+        "meaning": "A person who has written a particular text.",
+        "type": "noun",
+        "example": "He is a famous writer.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "writing",
+        "bengali": "লেখা",
+        "meaning": "The activity or skill of marking coherent words on paper and composing text.",
+        "type": "noun",
+        "example": "Writing is my hobby.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "written",
+        "bengali": "লিখিত",
+        "meaning": "Expressed in writing.",
+        "type": "adjective",
+        "example": "This is a written agreement.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "wrong",
+        "bengali": "ভুল",
+        "meaning": "Not correct or true; incorrect.",
+        "type": "adjective, adverb, noun",
+        "example": "That is the wrong answer.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "yard",
+        "bengali": "উঠান",
+        "meaning": "A unit of linear measure equal to 3 feet (0.9144 m).",
+        "type": "noun",
+        "example": "There is a big yard in front of the house.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "yeah",
+        "bengali": "হ্যাঁ",
+        "meaning": "Yes.",
+        "type": "exclamation",
+        "example": "Yeah, I agree.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "year",
+        "bengali": "বছর",
+        "meaning": "The time taken by the earth to make one revolution around the sun.",
+        "type": "noun",
+        "example": "I am twenty years old.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "yellow",
+        "bengali": "হলুদ",
+        "meaning": "Of the color between green and orange in the spectrum, a primary subtractive color complementary to blue; colored like ripe lemons or egg yolks.",
+        "type": "adjective, noun",
+        "example": "The sun is yellow.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "yes",
+        "bengali": "হ্যাঁ",
+        "meaning": "Used to give an affirmative response.",
+        "type": "exclamation, noun",
+        "example": "Yes, I will do it.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "yesterday",
+        "bengali": "গতকাল",
+        "meaning": "On the day before today.",
+        "type": "adverb, noun",
+        "example": "I saw him yesterday.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "yet",
+        "bengali": "এখনো",
+        "meaning": "Up until the present or a specified or implied time; by now or then.",
+        "type": "adverb, conjunction",
+        "example": "I haven't finished yet.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "you",
+        "bengali": "তুমি",
+        "meaning": "Used to refer to the person or people that the speaker is addressing.",
+        "type": "pronoun",
+        "example": "You are my friend.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "young",
+        "bengali": "তরুণ",
+        "meaning": "Having lived or existed for only a short time.",
+        "type": "adjective",
+        "example": "He is a young man.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "your",
+        "bengali": "তোমার",
+        "meaning": "Belonging to or associated with the person or people that the speaker is addressing.",
+        "type": "determiner",
+        "example": "This is your book.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "yours",
+        "bengali": "তোমার",
+        "meaning": "Used to refer to a thing or things belonging to or associated with the person or people that the speaker is addressing.",
+        "type": "pronoun",
+        "example": "This book is yours.",
+        "difficulty": "A2"
+    },
+    {
+        "english": "yourself",
+        "bengali": "তুমি নিজেই",
+        "meaning": "Used as the object of a verb or preposition to refer to the person being addressed.",
+        "type": "pronoun",
+        "example": "You should do it yourself.",
+        "difficulty": "A1"
+    },
+    {
+        "english": "youth",
+        "bengali": "যৌবন",
+        "meaning": "The period between childhood and adult age.",
+        "type": "noun",
+        "example": "He was a good athlete in his youth.",
+        "difficulty": "B1"
+    },
+    {
+        "english": "zero",
+        "bengali": "শূন্য",
+        "meaning": "No quantity or number; nought; the figure 0.",
+        "type": "number",
+        "example": "The temperature is zero degrees.",
+        "difficulty": "A2"
     }
 ];
 
