@@ -2,39 +2,39 @@
 
 A beautiful, interactive web application designed to help Bengali speakers learn the 3000 most common English words with translations, meanings, and examples.
 
-##  Features
+## Features
 
-###  Interactive Flashcards
+### Interactive Flashcards
 - **Flip Cards**: Click on cards to see Bengali translations and meanings
 - **Progress Tracking**: Mark words as known or unknown
 - **Session Management**: Customize the number of words per session
 - **Navigation**: Easy navigation between cards with previous/next buttons
 
-###  Quiz Mode
+### Quiz Mode
 - **Multiple Choice**: Test your knowledge with Bengali translation options
 - **Instant Feedback**: See correct answers and explanations
 - **Score Tracking**: Monitor your quiz performance
 - **Customizable**: Set the number of questions per quiz
 
-###  Progress Dashboard
+### Progress Dashboard
 - **Visual Progress**: Circular progress indicator
 - **Statistics**: Track words learned, quiz scores, and study streaks
 - **Activity Log**: View recent learning activities
 - **Data Export/Import**: Save and restore your progress
 
-### ⚙ Settings & Customization
+### Settings & Customization
 - **Learning Preferences**: Adjust words per session and auto-flip settings
 - **Quiz Settings**: Configure questions per quiz and explanations
 - **Data Management**: Export, import, or reset your progress
 
-##  Getting Started
+## Getting Started
 
 1. **Open the Application**: Simply open `index.html` in your web browser
 2. **Start Learning**: Click "Start Learning" to begin with flashcards
 3. **Navigate Sections**: Use the navigation menu to switch between features
 4. **Track Progress**: Monitor your learning journey in the Progress section
 
-##  Design Features
+## Design Features
 
 - **Modern UI**: Beautiful gradient backgrounds and smooth animations
 - **Responsive Design**: Works perfectly on desktop, tablet, and mobile
@@ -42,7 +42,7 @@ A beautiful, interactive web application designed to help Bengali speakers learn
 - **Bengali Typography**: Proper support for Bengali text display
 - **Accessibility**: Keyboard navigation and screen reader friendly
 
-##  How to Use
+## How to Use
 
 ### Flashcards
 1. Navigate to the Flashcards section
@@ -68,7 +68,7 @@ A beautiful, interactive web application designed to help Bengali speakers learn
 3. Export your progress for backup
 4. Import progress from previous sessions
 
-## 🛠️ Technical Details
+## Technical Details
 
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **No Dependencies**: Pure vanilla JavaScript - no frameworks required
@@ -76,7 +76,7 @@ A beautiful, interactive web application designed to help Bengali speakers learn
 - **Responsive**: CSS Grid and Flexbox for modern layouts
 - **Animations**: CSS transitions and keyframe animations
 
-##  File Structure
+## File Structure
 
 ```
 BanglaEnglish/
@@ -150,7 +150,8 @@ If you encounter any issues or have suggestions, please create an issue in the r
 
 ---
 
-**Happy Learning! 🎓**
+**Happy Learning!**
 
 *Master the 3000 most common English words with beautiful Bengali translations and interactive learning tools.*
+
 
