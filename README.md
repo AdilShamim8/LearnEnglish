@@ -92,7 +92,7 @@ BanglaEnglish/
 ### Adding More Words
 To add more words from the PDF, modify the `loadWordsData()` function in `script.js`:
 
-```javascript
+```JavaScript
 this.wordsData.push({
     english: "your_word",
     bengali: "বাংলা_অনুবাদ",
@@ -153,5 +153,6 @@ If you encounter any issues or have suggestions, please create an issue in the r
 **Happy Learning!**
 
 *Master the 3000 most common English words with beautiful Bengali translations and interactive learning tools.*
+
 
 
