@@ -11,6 +11,8 @@ body {
     min-height: 100vh;
     color: #333;
     overflow-x: hidden;
+    font-size: 18px;
+    line-height: 1.5;
 }
 
 #app {
@@ -81,6 +83,34 @@ body {
     background: linear-gradient(135deg, #87CEEB, #4682B4);
     color: white;
     box-shadow: 0 4px 15px rgba(135, 206, 235, 0.4);
+}
+
+/* Back to Top Button */
+.back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgba(70, 130, 180, 0.8);
+    color: white;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    opacity: 0;
+    transition: opacity 0.3s, transform 0.3s;
+    z-index: 999;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.back-to-top.visible {
+    opacity: 1;
+}
+
+.back-to-top:hover {
+    transform: translateY(-5px);
 }
 
 /* Main Content */
@@ -198,6 +228,9 @@ body {
     color: #333;
 }
 
+
+
+
 /* Flashcards */
 .controls {
     display: flex;
@@ -242,6 +275,11 @@ body {
     perspective: 1000px;
     cursor: pointer;
     margin: 0 auto;
+    transition: transform 0.6s;
+}
+
+.flashcard:hover {
+    transform: translateY(-5px);
 }
 
 .card-front, .card-back {
@@ -259,7 +297,7 @@ body {
     text-align: center;
     color: white;
     box-shadow: 0 15px 35px rgba(0, 0, 0, 0.2);
-    transition: transform 0.6s ease;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
     overflow: hidden;
     word-wrap: break-word;
     hyphens: auto;
@@ -275,10 +313,21 @@ body {
 
 .flashcard.flipped .card-front {
     transform: rotateY(180deg);
+    box-shadow: -15px 15px 35px rgba(0, 0, 0, 0.15);
 }
 
 .flashcard.flipped .card-back {
     transform: rotateY(0deg);
+    box-shadow: 15px 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+@keyframes cardSuccess {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.05); }
+}
+
+.card-success-animation {
+    animation: cardSuccess 0.6s ease;
 }
 
 .card-front h3, .card-back h3 {
@@ -335,10 +384,11 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .flip-btn {
-    background: linear-gradient(135deg, #87CEEB, #4682B4);
+    background: linear-gradient(135deg, #FF9966, #FF8C52);
     color: white;
 }
 
@@ -347,9 +397,21 @@ body {
     color: white;
 }
 
+.known-btn:hover {
+    background: linear-gradient(135deg, #3d9140, #378137);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(76, 175, 80, 0.4);
+}
+
 .unknown-btn {
     background: linear-gradient(135deg, #f44336, #da190b);
     color: white;
+}
+
+.unknown-btn:hover {
+    background: linear-gradient(135deg, #e53935, #c62828);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 15px rgba(244, 67, 54, 0.4);
 }
 
 .action-btn:hover {
