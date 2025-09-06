@@ -25,6 +25,8 @@ class LearningApp {
         this.setupEventListeners();
         this.loadWordsData();
         this.updateProgressDisplay();
+        this.setupBackToTop();
+        this.setupKeyboardShortcuts();
     }
 
     setupEventListeners() {
@@ -34,6 +36,8 @@ class LearningApp {
                 this.switchSection(e.target.closest('.nav-btn').dataset.section);
             });
         });
+        
+
 
         // Start learning button
         document.getElementById('start-learning').addEventListener('click', () => {
@@ -23768,6 +23772,8 @@ class LearningApp {
     }
 
     switchSection(sectionName) {
+        const isFromWelcome = this.currentSection === 'welcome';
+        
         // Hide all sections
         document.querySelectorAll('.section, #welcome-screen').forEach(section => {
             section.classList.add('hidden');
@@ -23783,6 +23789,20 @@ class LearningApp {
             document.getElementById('welcome-screen').classList.remove('hidden');
         } else {
             document.getElementById(`${sectionName}-section`).classList.remove('hidden');
+            
+            // Handle search container visibility for flashcards section
+            if (sectionName === 'flashcards') {
+                const searchContainer = document.querySelector('.search-container');
+                if (searchContainer) {
+                    // Hide search when coming from welcome screen
+                    if (isFromWelcome) {
+                        searchContainer.style.display = 'none';
+                    } else {
+                        // Show search when coming from other sections
+                        searchContainer.style.display = '';
+                    }
+                }
+            }
         }
 
         // Add active class to nav button
@@ -23905,7 +23925,16 @@ class LearningApp {
         }
 
         this.saveProgress();
-        this.nextCard();
+        
+        // Add success animation
+        const flashcard = document.querySelector('.flashcard');
+        flashcard.classList.add('card-success-animation');
+        
+        // Remove animation class after it completes
+        setTimeout(() => {
+            flashcard.classList.remove('card-success-animation');
+            this.nextCard();
+        }, 600);
     }
 
     markWordAsUnknown() {
@@ -24295,7 +24324,54 @@ class LearningApp {
             }
         }, 5000);
     }
+    
 
+        
+
+    
+    // Back to top functionality
+    setupBackToTop() {
+        const backToTopBtn = document.getElementById('back-to-top');
+        if (!backToTopBtn) return;
+        
+        // Show button when user scrolls down
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.add('visible');
+            } else {
+                backToTopBtn.classList.remove('visible');
+            }
+        });
+        
+        // Scroll to top when clicked
+        backToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
+    }
+    
+    // Keyboard shortcuts
+    setupKeyboardShortcuts() {
+        document.addEventListener('keydown', (e) => {
+            // Flip card with spacebar
+            if (e.code === 'Space' && this.currentSection === 'flashcards') {
+                e.preventDefault();
+                this.flipCard();
+            }
+            
+            // Next card with right arrow
+            if (e.code === 'ArrowRight' && this.currentSection === 'flashcards') {
+                this.nextCard();
+            }
+            
+            // Previous card with left arrow
+            if (e.code === 'ArrowLeft' && this.currentSection === 'flashcards') {
+                this.previousCard();
+            }
+        });
+    }
 
 }
 
