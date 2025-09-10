@@ -5,6 +5,18 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: #4682B4;
+    --primary-light: #87CEEB;
+    --primary-gradient: linear-gradient(135deg, #87CEEB 0%, #4682B4 100%);
+    --text-color: #333;
+    --text-light: #666;
+    --white: #fff;
+    --shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    --chatbot-width: 350px;
+    --chatbot-height: 500px;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #87CEEB 0%, #4682B4 100%);
@@ -98,6 +110,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 900;
     cursor: pointer;
     opacity: 0;
     transition: opacity 0.3s, transform 0.3s;
