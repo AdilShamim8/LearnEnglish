@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>English-Bengali Learning Platform</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="chatbot.css">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
@@ -41,6 +42,10 @@
                     <button id="theme-toggle" class="nav-btn" aria-label="Toggle theme" title="Toggle Light/Dark Mode">
                         <i class="fas fa-moon"></i>
                         <span class="theme-text">Dark</span>
+                    </button>
+                    <button id="chatbot-toggle" class="nav-btn" aria-label="Toggle chatbot" title="English Tutor Chatbot">
+                        <i class="fas fa-comment-dots"></i>
+                        <span>Tutor</span>
                     </button>
                 </div>
             </div>
@@ -298,14 +303,33 @@
 
                     <div class="setting-card">
                         <h3>AI Integration</h3>
-                        <div class="setting-item">
-                            <label>Gemini API Key:</label>
-                            <input type="password" id="gemini-api-key" placeholder="Enter your API key">
+                        <div class="setting-item api-key-container">
+                            <label for="gemini-api-key">Gemini API Key:</label>
+                            <div class="api-key-input-group">
+                                <input type="password" id="gemini-api-key" placeholder="Enter your API key">
+                                <button id="toggle-api-key-visibility" class="icon-button" aria-label="Toggle API key visibility">
+                                    <i class="fas fa-eye"></i>
+                                </button>
+                                <button id="submit-api-key" class="primary-button">
+                                    <i class="fas fa-check"></i>
+                                    <span>Validate</span>
+                                </button>
+                            </div>
+                            <div id="api-key-validation-msg" class="validation-message hidden"></div>
                         </div>
-                        <p style="font-size: 0.9rem; color: #666; margin-top: 1rem;">
-                            Get your free API key from 
-                            <a href="https://aistudio.google.com/app/apikey" target="_blank">Google AI Studio</a>
-                        </p>
+                        <div class="api-key-info">
+                            <i class="fas fa-info-circle"></i>
+                            <p>Get your free API key from 
+                                <a href="https://aistudio.google.com/app/apikey" target="_blank" class="highlight-link">Google AI Studio</a>
+                            </p>
+                        </div>
+                        <div class="api-status-container">
+                            <span class="status-label">API Status:</span>
+                            <span id="api-status-indicator" class="status-indicator offline">
+                                <i class="fas fa-circle"></i>
+                                <span id="api-status-text">Offline</span>
+                            </span>
+                        </div>
                     </div>
 
                     <div class="setting-card">
@@ -328,12 +352,82 @@
         </main>
     </div>
 
+    <!-- Chatbot Widget -->
+    <div id="chatbot-widget" class="chatbot-widget collapsed">
+        <div class="chatbot-header">
+            <div class="chatbot-title">
+                <i class="fas fa-robot"></i>
+                <h3>English Tutor</h3>
+            </div>
+            <div class="chatbot-controls">
+                <!-- Minimize and close buttons removed as requested -->
+            </div>
+        </div>
+        <div class="chatbot-body">
+            <div id="chatbot-messages" class="chatbot-messages">
+                <div class="message bot-message">
+                    <div class="message-content">
+                        <p>Hello! I'm your English language tutor. How can I help you improve your English today?</p>
+                    </div>
+                </div>
+            </div>
+            <div class="chatbot-input-container">
+                <textarea id="chatbot-input" placeholder="Type your message here..." rows="1"></textarea>
+                <button id="chatbot-send" class="chatbot-send-btn" aria-label="Send message">
+                    <i class="fas fa-paper-plane"></i>
+                </button>
+            </div>
+        </div>
+        <div class="chatbot-footer">
+            <div class="chatbot-api-status">
+                <span id="api-status-indicator"></span>
+                <span id="api-status-text">API: Not Connected</span>
+            </div>
+            <button id="chatbot-settings" class="chatbot-btn" aria-label="Chatbot settings">
+                <i class="fas fa-cog"></i>
+            </button>
+        </div>
+    </div>
+
     <!-- Audio for pronunciation -->
     <audio id="pronunciation-audio" preload="none"></audio>
     
     <!-- PDF.js for loading the 3000 words from local PDF -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
     
+    <!-- Chatbot Widget Structure -->
+    <div id="chatbot-widget" class="chatbot-container">
+        <div class="chatbot-header">
+            <div class="chatbot-title">
+                <h3>English Tutor</h3>
+                <div id="api-status-indicator" class="status-indicator offline"></div>
+            </div>
+            <div class="chatbot-controls">
+                <button id="chatbot-settings" class="settings-btn">⚙️</button>
+                <button id="chatbot-minimize" class="minimize-btn">−</button>
+                <button id="chatbot-close" class="close-btn">×</button>
+            </div>
+        </div>
+        <div id="chatbot-messages" class="chat-messages"></div>
+        <div id="loading-overlay" class="loading-overlay">
+            <div class="loading-spinner"></div>
+        </div>
+        <form id="chatbot-form" class="chat-input-form">
+            <textarea id="chatbot-input" placeholder="Type your message..." class="chat-input"></textarea>
+            <button id="chatbot-send" type="submit" class="send-btn">Send</button>
+        </form>
+    </div>
+    <button id="chatbot-toggle" class="chatbot-toggle">💬</button>
+
     <script src="script.js"></script>
+    <script src="chatbot.js"></script>
+    <script>
+        // Initialize chatbot when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            // Create and initialize the chatbot
+            const chatbot = new EnglishTutorChatbot();
+            chatbot.init();
+        });
+    </script>
 </body>
 </html>
