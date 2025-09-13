@@ -154,16 +154,16 @@ class LearningApp {
         // Fallback sample data
         this.wordsData = [
     {
-        "english": "a, an",
-        "bengali": "একটি",
-        "meaning": "Used when referring to someone or something for the first time in a text or conversation.",
-        "type": "indefinite article",
-        "example": "She has a dog.",
-        "difficulty": "A1"
-    },
-    {
+    "english": "a, an",
+    "Bangla": "একটি",
+    "meaning": "Used when referring to someone or something for the first time in a text or conversation.",
+    "type": "indefinite article",
+    "example": "She has a dog.",
+    "difficulty": "A1"
+     },
+      {
         "english": "abandon",
-        "bengali": "ত্যাগ করা",
+        "Bangla": "ত্যাগ করা",
         "meaning": "Cease to support or look after (someone); desert.",
         "type": "verb",
         "example": "He had to abandon his car.",
@@ -171,7 +171,7 @@ class LearningApp {
     },
     {
         "english": "ability",
-        "bengali": "দক্ষতা",
+        "Bangla": "দক্ষতা",
         "meaning": "Possession of the means or skill to do something.",
         "type": "noun",
         "example": "He has the ability to do the work.",
@@ -179,7 +179,7 @@ class LearningApp {
     },
     {
         "english": "able",
-        "bengali": "সক্ষম",
+        "Bangla": "সক্ষম",
         "meaning": "Having the power, skill, means, or opportunity to do something.",
         "type": "adjective",
         "example": "Will she be able to cope?",
@@ -187,7 +187,7 @@ class LearningApp {
     },
     {
         "english": "about",
-        "bengali": "সম্পর্কে",
+        "Bangla": "সম্পর্কে",
         "meaning": "On the subject of; concerning.",
         "type": "preposition, adverb",
         "example": "I was thinking about you.",
@@ -195,7 +195,7 @@ class LearningApp {
     },
     {
         "english": "above",
-        "bengali": "উপরে",
+        "Bangla": "উপরে",
         "meaning": "At a higher level or layer.",
         "type": "preposition, adverb",
         "example": "The sun is above the clouds.",
