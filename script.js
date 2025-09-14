@@ -297,7 +297,7 @@ class LearningApp {
         "example": "The information is accurate.",
         "difficulty": "B2"
     },
-    {
+   {
         "english": "accuse",
         "bengali": "অভিযুক্ত করা",
         "meaning": "Charge (someone) with an offense or crime.",
