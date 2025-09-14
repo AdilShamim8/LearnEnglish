@@ -163,7 +163,7 @@ class LearningApp {
      },
       {
         "english": "abandon",
-        "Bangla": "ত্যাগ করা",
+        "bengali": "ত্যাগ করা",
         "meaning": "Cease to support or look after (someone); desert.",
         "type": "verb",
         "example": "He had to abandon his car.",
@@ -171,7 +171,7 @@ class LearningApp {
     },
     {
         "english": "ability",
-        "Bangla": "দক্ষতা",
+        "bengali": "দক্ষতা",
         "meaning": "Possession of the means or skill to do something.",
         "type": "noun",
         "example": "He has the ability to do the work.",
@@ -179,7 +179,7 @@ class LearningApp {
     },
     {
         "english": "able",
-        "Bangla": "সক্ষম",
+        "bengali": "সক্ষম",
         "meaning": "Having the power, skill, means, or opportunity to do something.",
         "type": "adjective",
         "example": "Will she be able to cope?",
@@ -187,7 +187,7 @@ class LearningApp {
     },
     {
         "english": "about",
-        "Bangla": "সম্পর্কে",
+        "bengali": "সম্পর্কে",
         "meaning": "On the subject of; concerning.",
         "type": "preposition, adverb",
         "example": "I was thinking about you.",
@@ -195,7 +195,7 @@ class LearningApp {
     },
     {
         "english": "above",
-        "Bangla": "উপরে",
+        "bengali": "উপরে",
         "meaning": "At a higher level or layer.",
         "type": "preposition, adverb",
         "example": "The sun is above the clouds.",
@@ -203,7 +203,7 @@ class LearningApp {
     },
     {
         "english": "abroad",
-        "Bangla": "বিদেশে",
+        "bengali": "বিদেশে",
         "meaning": "In or to a foreign country or countries.",
         "type": "adverb",
         "example": "He's currently abroad on business.",
@@ -211,7 +211,7 @@ class LearningApp {
     },
     {
         "english": "absolute",
-        "Bangla": "পরম",
+        "bengali": "পরম",
         "meaning": "Not qualified or diminished in any way; total.",
         "type": "adjective",
         "example": "The decision was an absolute disaster.",
@@ -219,7 +219,7 @@ class LearningApp {
     },
     {
         "english": "absolutely",
-        "Bangla": "একেবারে",
+        "bengali": "একেবারে",
         "meaning": "With no qualification, restriction, or limitation; totally.",
         "type": "adverb",
         "example": "You are absolutely right.",
@@ -227,7 +227,7 @@ class LearningApp {
     },
     {
         "english": "academic",
-        "Bangla": "অ্যাকাডেমিক",
+        "bengali": "অ্যাকাডেমিক",
         "meaning": "Relating to education and scholarship.",
         "type": "adjective",
         "example": "She has a strong academic background.",
@@ -235,7 +235,7 @@ class LearningApp {
     },
     {
         "english": "accept",
-        "Bangla": "গ্রহণ করা",
+        "bengali": "গ্রহণ করা",
         "meaning": "Consent to receive or undertake (something offered).",
         "type": "verb",
         "example": "He accepted a pen from me.",
@@ -243,7 +243,7 @@ class LearningApp {
     },
     {
         "english": "acceptable",
-        "Bangla": "গ্রহণযোগ্য",
+        "bengali": "গ্রহণযোগ্য",
         "meaning": "Able to be agreed on; suitable.",
         "type": "adjective",
         "example": "The food was acceptable, but not outstanding.",
@@ -251,7 +251,7 @@ class LearningApp {
     },
     {
         "english": "access",
-        "Bangla": "প্রবেশাধিকার",
+        "bengali": "প্রবেশাধিকার",
         "meaning": "The means or opportunity to approach or enter a place.",
         "type": "noun, verb",
         "example": "The police gained access to the house through a side door.",
@@ -259,7 +259,7 @@ class LearningApp {
     },
     {
         "english": "accident",
-        "Bangla": "দুর্ঘটনা",
+        "bengali": "দুর্ঘটনা",
         "meaning": "An unfortunate incident that happens unexpectedly and unintentionally, typically resulting in damage or injury.",
         "type": "noun",
         "example": "He had an accident at the factory.",
@@ -267,7 +267,7 @@ class LearningApp {
     },
     {
         "english": "accompany",
-        "Bangla": "সঙ্গে থাকা",
+        "bengali": "সঙ্গে থাকা",
         "meaning": "Go somewhere with (someone) as a companion or escort.",
         "type": "verb",
         "example": "The children must be accompanied by an adult.",
@@ -275,7 +275,7 @@ class LearningApp {
     },
     {
         "english": "according to",
-        "Bangla": "অনুযায়ী",
+        "bengali": "অনুযায়ী",
         "meaning": "As stated by or in.",
         "type": "preposition",
         "example": "According to the weather forecast, it will rain tomorrow.",
@@ -283,7 +283,7 @@ class LearningApp {
     },
     {
         "english": "account",
-        "Bangla": "হিসাব",
+        "bengali": "হিসাব",
         "meaning": "A report or description of an event or experience.",
         "type": "noun, verb",
         "example": "She gave a detailed account of the incident.",
@@ -291,7 +291,7 @@ class LearningApp {
     },
     {
         "english": "accurate",
-        "Bangla": "নির্ভুল",
+        "bengali": "নির্ভুল",
         "meaning": "(of information, measurements, statistics, etc.) correct in all details; exact.",
         "type": "adjective",
         "example": "The information is accurate.",
