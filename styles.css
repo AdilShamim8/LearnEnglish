@@ -5,6 +5,18 @@
     box-sizing: border-box;
 }
 
+:root {
+    --primary-color: #4682B4;
+    --primary-light: #87CEEB;
+    --primary-gradient: linear-gradient(135deg, #87CEEB 0%, #4682B4 100%);
+    --text-color: #333;
+    --text-light: #666;
+    --white: #fff;
+    --shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    --chatbot-width: 350px;
+    --chatbot-height: 500px;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     background: linear-gradient(135deg, #87CEEB 0%, #4682B4 100%);
@@ -83,34 +95,6 @@ body {
     background: linear-gradient(135deg, #87CEEB, #4682B4);
     color: white;
     box-shadow: 0 4px 15px rgba(135, 206, 235, 0.4);
-}
-
-/* Back to Top Button */
-.back-to-top {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    background: rgba(70, 130, 180, 0.8);
-    color: white;
-    width: 50px;
-    height: 50px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    opacity: 0;
-    transition: opacity 0.3s, transform 0.3s;
-    z-index: 999;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-}
-
-.back-to-top.visible {
-    opacity: 1;
-}
-
-.back-to-top:hover {
-    transform: translateY(-5px);
 }
 
 /* Main Content */
@@ -960,6 +944,165 @@ body.dark .setting-btn.danger {
     box-shadow: 0 5px 15px rgba(244, 67, 54, 0.3);
 }
 
+/* API Key Integration Styles */
+.api-key-container {
+    flex-direction: column;
+    align-items: stretch;
+}
+
+.api-key-input-group {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 0.75rem;
+    align-items: stretch;
+    flex-wrap: wrap;
+}
+
+.api-key-input-group input {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.875rem 1rem;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    font-size: clamp(0.9rem, 2.5vw, 1rem);
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.api-key-input-group input:focus {
+    outline: none;
+    border-color: var(--color-primary);
+    box-shadow: 0 0 0 3px rgba(70, 130, 180, 0.1), 0 2px 8px rgba(0, 0, 0, 0.15);
+    transform: translateY(-1px);
+}
+
+.icon-button:focus,
+.primary-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(70, 130, 180, 0.2), 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+body.dark .api-key-input-group input {
+    background-color: #263b50;
+    border-color: #36516d;
+    color: #e5eef7;
+}
+
+.icon-button {
+    padding: 0.875rem;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    background: white;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 48px;
+    min-height: 48px;
+    font-size: 1.1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.icon-button:hover {
+    background: #f8f9fa;
+    border-color: var(--color-primary);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+body.dark .icon-button {
+    background: #263b50;
+    border-color: #36516d;
+    color: #e5eef7;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+body.dark .icon-button:hover {
+    background: #324964;
+    border-color: var(--color-primary);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.primary-button {
+    padding: 0.875rem 1.25rem;
+    border: none;
+    border-radius: 10px;
+    background: linear-gradient(135deg, var(--color-primary-accent), var(--color-primary));
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    min-height: 48px;
+    font-size: clamp(0.9rem, 2.5vw, 1rem);
+    box-shadow: 0 2px 6px rgba(70, 130, 180, 0.2);
+    white-space: nowrap;
+}
+
+.primary-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(70, 130, 180, 0.4);
+    background: linear-gradient(135deg, #5ba3d4, #3a7bc8);
+}
+
+.primary-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 6px rgba(70, 130, 180, 0.2);
+}
+
+.validation-message {
+    margin-top: 0.75rem;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    font-size: clamp(0.85rem, 2.2vw, 0.95rem);
+    line-height: 1.4;
+    font-weight: 500;
+}
+
+.validation-message.success {
+    background: rgba(76, 175, 80, 0.1);
+    color: #4caf50;
+    border: 1px solid rgba(76, 175, 80, 0.3);
+}
+
+.validation-message.error {
+    background: rgba(244, 67, 54, 0.1);
+    color: #f44336;
+    border: 1px solid rgba(244, 67, 54, 0.3);
+}
+
+.api-key-info {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-top: 1.25rem;
+    padding: 1.25rem;
+    background: rgba(70, 130, 180, 0.08);
+    border-radius: 12px;
+    font-size: clamp(0.85rem, 2.2vw, 0.95rem);
+    border: 1px solid rgba(70, 130, 180, 0.15);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.api-key-info i {
+    color: var(--color-primary);
+    margin-top: 0.1rem;
+}
+
+.highlight-link {
+    color: var(--color-primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.highlight-link:hover {
+    text-decoration: underline;
+}
+
 /* Enhanced Responsive Design */
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 576px) {
@@ -1069,6 +1212,116 @@ body.dark .setting-btn.danger {
     
     .settings-grid {
         grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+    
+    .setting-card {
+        padding: 1.5rem;
+        border-radius: 12px;
+    }
+    
+    .setting-card h3 {
+        font-size: clamp(1.1rem, 4vw, 1.3rem);
+        margin-bottom: 1rem;
+    }
+    
+    .setting-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.5rem;
+        padding: 0.75rem 0;
+    }
+    
+    .setting-item label {
+        font-size: clamp(0.9rem, 3.5vw, 1rem);
+        font-weight: 500;
+    }
+    
+    .setting-item select {
+        width: 100%;
+        padding: 0.75rem;
+        font-size: clamp(0.9rem, 3.5vw, 1rem);
+        border-radius: 8px;
+        min-height: 44px;
+    }
+    
+    .api-key-input-group {
+        flex-direction: column;
+        gap: 1rem;
+        width: 100%;
+        align-items: stretch;
+    }
+    
+    .api-key-input-group input {
+        width: 100%;
+        min-height: 52px;
+        font-size: 1rem;
+        padding: 1rem;
+        border-radius: 12px;
+    }
+    
+    .primary-button,
+    .icon-button {
+        min-height: 52px;
+        font-size: 1rem;
+        border-radius: 12px;
+    }
+    
+    .primary-button {
+        padding: 1rem 1.5rem;
+        justify-content: center;
+    }
+    
+    .icon-button {
+        min-width: 52px;
+        align-self: flex-end;
+        touch-action: manipulation;
+    }
+    
+    /* Improve touch targets for mobile */
+    .api-key-input-group input,
+    .primary-button,
+    .icon-button {
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: rgba(70, 130, 180, 0.1);
+    }
+    
+    /* Better visual feedback on touch */
+    .primary-button:active,
+    .icon-button:active {
+        transform: scale(0.98);
+        transition-duration: 0.1s;
+    }
+    
+    .api-key-info {
+        font-size: clamp(0.8rem, 3vw, 0.9rem);
+        padding: 1rem;
+        border-radius: 10px;
+    }
+}
+
+/* Tablet and large phone optimization */
+@media (min-width: 481px) and (max-width: 768px) {
+    .api-key-input-group {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+    }
+    
+    .api-key-input-group input {
+        flex: 1;
+        min-width: 250px;
+        min-height: 50px;
+    }
+    
+    .icon-button,
+    .primary-button {
+        min-height: 50px;
+        flex-shrink: 0;
+    }
+    
+    .primary-button {
+        min-width: 120px;
     }
     
     .flashcard-actions {
