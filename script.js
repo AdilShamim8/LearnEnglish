@@ -25,7 +25,6 @@ class LearningApp {
         this.setupEventListeners();
         this.loadWordsData();
         this.updateProgressDisplay();
-        this.setupBackToTop();
         this.setupKeyboardShortcuts();
     }
 
@@ -160,8 +159,8 @@ class LearningApp {
     "type": "indefinite article",
     "example": "She has a dog.",
     "difficulty": "A1"
-     },
-      {
+    },
+    {
         "english": "abandon",
         "bengali": "ত্যাগ করা",
         "meaning": "Cease to support or look after (someone); desert.",
@@ -297,7 +296,7 @@ class LearningApp {
         "example": "The information is accurate.",
         "difficulty": "B2"
     },
-   {
+    {
         "english": "accuse",
         "bengali": "অভিযুক্ত করা",
         "meaning": "Charge (someone) with an offense or crime.",
@@ -393,7 +392,7 @@ class LearningApp {
         "example": "She is a talented actress.",
         "difficulty": "A1"
     },
-    {
+     {
         "english": "actual",
         "bengali": "প্রকৃত",
         "meaning": "Existing in fact; typically as contrasted with what was intended, expected, or believed.",
@@ -497,6 +496,7 @@ class LearningApp {
         "example": "This movie is for adults only.",
         "difficulty": "A1"
     },
+    // ME
     {
         "english": "advance",
         "bengali": "অগ্রিম",
@@ -24328,29 +24328,6 @@ class LearningApp {
 
         
 
-    
-    // Back to top functionality
-    setupBackToTop() {
-        const backToTopBtn = document.getElementById('back-to-top');
-        if (!backToTopBtn) return;
-        
-        // Show button when user scrolls down
-        window.addEventListener('scroll', () => {
-            if (window.scrollY > 300) {
-                backToTopBtn.classList.add('visible');
-            } else {
-                backToTopBtn.classList.remove('visible');
-            }
-        });
-        
-        // Scroll to top when clicked
-        backToTopBtn.addEventListener('click', () => {
-            window.scrollTo({
-                top: 0,
-                behavior: 'smooth'
-            });
-        });
-    }
     
     // Keyboard shortcuts
     setupKeyboardShortcuts() {
