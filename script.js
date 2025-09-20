@@ -496,7 +496,6 @@ class LearningApp {
         "example": "This movie is for adults only.",
         "difficulty": "A1"
     },
-    // ME
     {
         "english": "advance",
         "bengali": "অগ্রিম",
